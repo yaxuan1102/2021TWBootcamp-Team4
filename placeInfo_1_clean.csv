@@ -1,0 +1,745 @@
+﻿,name,place_id,types,lat,lng,rating,user_ratings_total
+0,安平北堤(綠),ChIJdWYSh2XfbTQRgk2vgwrEot8,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9625393,120.1474869,4.1,160.0
+1,觀夕平臺,ChIJ_____wN2bjQRogqxlnZt3NQ,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9901592,120.1470983,4.3,8775.0
+2,四草大橋,ChIJn_c52f11bjQRibYqZYX9IMk,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9969776,120.1403247,4.4,755.0
+3,安平燈塔,ChIJt2ftV03fbTQRoEalBJil24k,"['tourist_attraction', 'point_of_interest', 'establishment']",22.990823100000004,120.1470193,4.2,137.0
+4,台南南防波堤(紅燈),ChIJYwiLfWPfbTQRIu6PDC3nOAE,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9605549,120.1532462,4.0,38.0
+5,橋頭海灘公園,ChIJI5sbLU3fbTQRYOR6bS5rdyI,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.993724,120.143413,4.2,3502.0
+6,漁光島沙灘,ChIJ5_tQJlHfbTQR79SHxglJfq0,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9827695,120.1522869,4.4,1219.0
+7,虱目魚主題館（參加活動請先電話預約）,ChIJQ1hB3v91bjQR__MjGJViSFw,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9831251,120.1558499,4.0,3373.0
+8,二鯤鯓砲臺(億載金城),ChIJk_qk9P91bjQRTolgNlHUSrc,"['tourist_attraction', 'point_of_interest', 'establishment']",22.987883,120.159255,4.1,6590.0
+9,安平定情碼頭德陽艦園區,ChIJOYFDzarYbTQRB7SC69TUJa8,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9891513,120.1565805,4.2,11582.0
+10,漁光島,ChIJ87qwKf11bjQRMuEmcom6RX8,"['tourist_attraction', 'point_of_interest', 'establishment']",22.981044,120.1556693,4.3,15878.0
+11,龍崗天橋(四鯤鯓海景天橋),ChIJd4LY7411bjQR-C5ZbbEMvRE,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9610739,120.1683404,4.0,807.0
+12,台江國家公園管理處行政中心,ChIJAV0H0pTYbTQRuS5hyXnarzE,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.0028705,120.1362648,4.2,16604.0
+13,鹽水溪口濕地,ChIJfYU1LaXYbTQRa32oMpF9EqE,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.003138600000003,120.14252340000002,4.6,124.0
+14,台江漁樂園,ChIJddor9bbYbTQRZH1q5sC3LL0,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0000339,120.1389125,4.3,705.0
+15,戀愛廣場,ChIJcdHj06zYbTQRlGEje2beEFo,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9912702,120.1514568,3.7,1138.0
+16,碧海風景碼頭,ChIJw5oQhazYbTQRWkgRL0e59IQ,"['tourist_attraction', 'point_of_interest', 'establishment']",22.992695,120.152568,4.8,4.0
+17,世平二號公園,ChIJTyHy363YbTQRERNi8OZScZs,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.996672,120.148899,3.5,55.0
+18,黃金海岸,ChIJMTD9H3J1bjQRC0l1HyDH3rQ,"['tourist_attraction', 'point_of_interest', 'establishment']",22.933208800000006,120.1762577,4.0,4177.0
+19,作夥憩海邊民宿（防疫一起加油-人工確實check-in以保障每一組房客/落實量額溫/加強消毒）| 榮獲百大好客民宿 | 官網最低價 | 國旅卡（Taiowan One Piece House）,ChIJ3WmuE6_YbTQRFuuYY_K_hn4,"['tourist_attraction', 'lodging', 'point_of_interest', 'establishment']",22.9999584,120.1507503,4.8,85.0
+20,湖濱水鳥公園,ChIJ4w_CbqbYbTQRVQQnyLK_1x4,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.002768,120.15415149999998,4.3,71.0
+21,億載公園,ChIJF0WpAgB2bjQRhBZGgNZY7lk,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9898824,120.1589496,4.3,280.0
+22,灣裡萬年殿,ChIJR2dw5HJ1bjQRLyGcRqAYrK0,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.9333033,120.1800769,4.5,399.0
+23,林默娘公園,ChIJG1xPEc5yBxQRiCoswkya8qw,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",22.9938758,120.15719579999998,4.3,7653.0
+24,新百祿燕窩觀光工廠,ChIJYxg5j-t1bjQRJu2jTIRgzuk,"['tourist_attraction', 'point_of_interest', 'establishment']",22.967474,120.17663600000002,4.0,730.0
+25,台南安平-夕遊出張所,ChIJR0ctuxp2bjQRcIg1Va6v9Bc,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0025611,120.1563263,4.0,5593.0
+26,安平海關 運河博物館,ChIJVWDJTwN2bjQRvUryDHYDEnc,"['tourist_attraction', 'cafe', 'museum', 'food', 'point_of_interest', 'establishment']",22.998516100000003,120.1639519,4.1,469.0
+27,東興洋行,ChIJJ9emiKfYbTQRM528BGBb5cY,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0017694,120.1589444,4.0,300.0
+28,安平老街,ChIJ_____wN2bjQRIOio8uGV_Og,"['jewelry_store', 'tourist_attraction', 'home_goods_store', 'point_of_interest', 'store', 'establishment']",23.000728,120.1617807,4.2,28810.0
+29,英商德記洋行（台灣開拓史料蠟像館）,ChIJo7avkR12bjQR9Gvc2sRtx40,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",23.0034467,120.1597835,4.2,10325.0
+30,海山館,ChIJD1nN8Bx2bjQROWmNnLkI_Iw,"['tourist_attraction', 'cafe', 'food', 'point_of_interest', 'establishment']",23.0014144,120.16263130000002,4.0,493.0
+31,安平劍獅埕,ChIJL5Dhuxx2bjQRUcjVq8bY2SQ,"['tourist_attraction', 'point_of_interest', 'establishment']",22.999942,120.163629,4.0,329.0
+32,黑橋牌香腸博物館,ChIJOaMiYd51bjQR5h4F5D6kcJk,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",22.979734,120.1843038,4.1,6131.0
+33,安平古堡,ChIJZ-TjeHN2bjQR8a3Jat0VHps,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0015093,120.1606244,4.3,16409.0
+34,安平開臺天后宮,ChIJY7RrRh12bjQRncBHmaoGt4Q,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.0006638,120.1606903,4.5,710.0
+35,安平蚵灰窯文化館,ChIJ12hEiBt2bjQRIPCZCMYAzws,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",23.0023418,120.1649846,3.9,308.0
+36,安平鹽神白沙灘公園,ChIJ11CzTabYbTQREQ4eR--WYk4,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0018162,120.1563448,4.0,2449.0
+37,塩埕北極殿,ChIJvcESesR1bjQRdD6B3kbhM4U,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.968809,120.18846270000002,4.3,180.0
+38,朱玖瑩故居(因鹽玖定),ChIJ_____wN2bjQRPltMc7uJ0zI,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0033747,120.1600684,4.0,262.0
+39,國立臺南生活美學館,ChIJB5XdKHJ2bjQRVI5paav5Nzc,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",22.9920962,120.1874149,4.1,1499.0
+40,鄭成功文物館,ChIJvRCasYd2bjQRkHyuV_FbLuk,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",22.9873691,120.2082281,4.3,3116.0
+41,神農街,ChIJqctagGZ2bjQRGlAjSFrC5hE,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9975171,120.1964949,4.2,14168.0
+42,五妃廟,ChIJhwqMKn52bjQRjs-gz337hJY,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.981974,120.204977,4.1,611.0
+43,台南武聖夜市,ChIJc9IkfkJ2bjQRD5USkR9J1ck,"['tourist_attraction', 'point_of_interest', 'establishment']",23.003458,120.1905098,4.3,15162.0
+44,國立臺灣文學館 (原臺南州廳),ChIJcfdsmWJ2bjQRSb4_CGnFR0E,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",22.9919771,120.2044915,4.5,6558.0
+45,臺南市立臺南文化中心,ChIJYUOPRyd0bjQRivbrqFsMKuU,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9747562,120.2215652,4.3,5148.0
+46,原台南測候所,ChIJq7vR14l2bjQRhmlNkSlt5vk,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",22.993676500000007,120.2050336,4.3,444.0
+47,吳園藝文中心,ChIJgcp5wol2bjQRdslnxYwK30Y,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",22.9943733,120.2059555,4.4,5025.0
+48,奇美博物館,ChIJq6qqqnp0bjQRpvTHZeYTjKg,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9345608,120.2260268,4.6,46887.0
+49,花園夜市 Garden Night Market,ChIJx7B27Vl2bjQRXNQQFasKOKI,"['tourist_attraction', 'point_of_interest', 'establishment']",23.011402800000006,120.2003525,4.2,33366.0
+50,巴克禮紀念公園,ChIJMwoLNSF0bjQRPDMC-i3Tuy0,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",22.9719929,120.2225874,4.4,5342.0
+51,赤崁樓,ChIJbYl7d2F2bjQRnFdvyMBuZfI,"['tourist_attraction', 'point_of_interest', 'establishment']",22.997478,120.2025433,4.3,18007.0
+52,十鼓仁糖文創園區,ChIJA0P9eml0bjQRAFSV5Tjabuc,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9393947,120.23028329999998,4.3,16402.0
+53,321巷 藝術聚落,ChIJW5GWOPR2bjQR0zPPTr9TaM8,"['tourist_attraction', 'point_of_interest', 'establishment']",23.004342,120.208972,4.1,4052.0
+54,孔廟商圈,ChIJJw96dIh2bjQRwJC5vTPBqEA,"['tourist_attraction', 'point_of_interest', 'establishment']",22.990087,120.2059868,4.1,2602.0
+55,臺灣首廟天壇,ChIJGwsbZmJ2bjQRzVsgkZNHXAY,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.9937599,120.2041685,4.6,1146.0
+56,台南公園,ChIJB8c7pvR2bjQRtQwHdqx87Y0,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.0024696,120.2116084,4.2,8507.0
+57,國立成功大學博物館,ChIJA2xpnZJ2bjQRbOkCD2qgHqE,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9966473,120.2195854,4.3,1184.0
+58,岳王廟,ChIJIRV4nD5xbjQRXgAaIOpRio4,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.9920736,120.2705116,4.4,132.0
+59,台南市勞工育樂中心,ChIJp9HPP9V1bjQR5r1C31eH0SY,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9799348,120.204208,3.9,1792.0
+60,台南德化堂,ChIJC3iMXX12bjQRoMsHXZctJ2o,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.9891281,120.2060494,4.4,56.0
+61,大灣廣護宮,ChIJF91eISdxbjQR5Jtr0Tr0Qnw,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.0073104,120.26737959999998,4.6,274.0
+62,臺南‧家具產業博物館,ChIJZR0yhvF0bjQRV5nYGyNDtgY,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",22.924395,120.222615,4.2,291.0
+63,萬國通路創意觀光工廠,ChIJyctk_7xzbjQRwlvfvXmUDSQ,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9351511,120.2778068,4.1,2089.0
+64,農春鎮生態教育農場,ChIJEcAhwqRybjQRvMFf15zV1m8,"['tourist_attraction', 'lodging', 'point_of_interest', 'establishment']",22.883984,120.300378,3.9,272.0
+65,山西宮,ChIJ16cxeMtwbjQRmx7fA619FpU,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.961730300000006,120.3252738,4.5,1577.0
+66,關廟森林公園,ChIJlWIzgIltbjQRx65x7mcp3QY,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.922976,120.346366,3.5,180.0
+67,歸仁仁壽宮,ChIJZ4FKmHlxbjQRgGlHpHolXjk,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.9698198,120.2929244,4.5,276.0
+68,歸仁美學館,ChIJAaNr2HhxbjQRK8bxNrTcI70,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9670492,120.2947307,4.1,332.0
+69,台灣Holocaust和平紀念館,ChIJ4-zFi4p0bjQRX7gvMqcTdG0,"['church', 'tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.9303884,120.230898,3.3,22.0
+70,虹泰水凝膠世界【觀光工廠】,ChIJ-Y6sp0txbjQRBXKBfbv65Zk,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",22.9876567,120.2542364,4.8,3562.0
+71,忠義聖堂,ChIJOa5VZLtxbjQRL6GV6xhQVTA,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.9752919,120.317907,4.3,79.0
+72,奧林帕斯橋,ChIJo1W_PV90bjQRWwJL2R7yD5g,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9345557,120.2237535,4.7,221.0
+73,臺南永康彩繪眷村,ChIJJXMnr852bjQR_wiSSWCnbYE,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9980186,120.2401401,3.6,1647.0
+74,阿波羅噴泉廣場,ChIJRd5FNF90bjQRO3G8WwGpLuw,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",22.9345618,120.2227395,4.6,258.0
+75,台南清真寺,ChIJzYuV3qF2bjQRrJmsVqIcd9s,"['mosque', 'tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.9784539,120.2284563,4.3,78.0
+76,虎山林場,ChIJVVUVt2l0bjQRZWzukmRTgZ8,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9458024,120.230224,4.2,866.0
+77,龍崎區農會竹炭故事館,ChIJ9ykAlxZubjQRzS1ptwbmGUU,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9646618,120.3600762,3.9,235.0
+78,新化木架山草原,ChIJaxi8jC1wbjQR_DTkAGOUnxg,"['tourist_attraction', 'point_of_interest', 'establishment']",22.992757,120.3331336,4.1,585.0
+79,關廟北寮彩繪村,ChIJ_zt-fTBubjQRRXOxY2qV7Hc,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9759472,120.3588998,3.9,863.0
+80,禾光牧場-羊咩咩的家,ChIJYYTSGThzbjQR3qplv5QkPz0,"['tourist_attraction', 'food', 'point_of_interest', 'establishment']",22.8902062,120.2757793,4.3,616.0
+81,歸仁運動公園,ChIJ9bWHZH9xbjQRGjGvL2d-J6o,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9638519,120.2970199,4.3,426.0
+82,千佛山菩提寺,ChIJrfvEfvxxbjQR73owtABmSnI,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.9564354,120.3461387,4.4,530.0
+83,大潭埤旺萊公園,ChIJyYlDw_1xbjQRgb-FCpErXFE,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.957269,120.34081100000002,3.8,851.0
+84,仁德運動公園,ChIJA-5G8f1zbjQRVPKezsmrp1Y,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9684524,120.2583008,4.0,897.0
+85,烏龍水,ChIJmapLumlubjQRG_1eXupAXCg,"['tourist_attraction', 'point_of_interest', 'establishment']",22.964016600000004,120.3841486,3.6,11.0
+86,西湖靈隱寺,ChIJZ8-5ayNwbjQRfOSKJg4Osn4,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0050709,120.357887,4.3,28.0
+87,大潭山,ChIJT2i4zftxbjQRhKeQqVtf-Hk,"['tourist_attraction', 'point_of_interest', 'establishment']",22.95966,120.32776,2.0,1.0
+88,木棉花道,ChIJu79N3qtzbjQRgpXHqw1Bkc8,"['tourist_attraction', 'point_of_interest', 'establishment']",22.92238,120.291849,3.9,316.0
+89,十門平,ChIJ9V3Lye5tbjQRQVKfbrBVlU4,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9323408,120.3603106,4.7,6.0
+90,望龍吊橋,ChIJl4rpIfRvbjQRt-02I1K2Lgo,"['tourist_attraction', 'point_of_interest', 'establishment']",22.963123100000004,120.3602403,4.1,40.0
+91,虎形山公園,ChIJnzL3RhRubjQRn6t3BcnkZGk,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9645328,120.3598256,4.2,3661.0
+92,牛埔農塘,ChIJT0MwQSNsbjQRqhPJm-zgC-w,"['tourist_attraction', 'point_of_interest', 'establishment']",22.926737300000006,120.4083967,4.0,388.0
+93,牛埔,ChIJPZUjZSFsbjQRyckzBjTCKC8,"['tourist_attraction', 'point_of_interest', 'establishment']",22.931938,120.409042,5.0,1.0
+94,月世界 弦月眺望台,ChIJsQo1UjkSbjQR848r16FTK9o,"['tourist_attraction', 'point_of_interest', 'establishment']",22.88819789999999,120.3885299,4.1,175.0
+95,牛埔泥岩水土保持教學園區,ChIJs6Q-VoZubjQR5WWjw1qUV3k,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",22.9277211,120.4096322,3.9,945.0
+96,獅頭觀景點,ChIJ5aK8S0JvbjQRp4UpBsoB4wc,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9817454,120.4109075,3.1,29.0
+97,大坑休閒農場,ChIJG6RYcHVvbjQRNH_T20sX0hY,"['tourist_attraction', 'spa', 'point_of_interest', 'establishment']",23.0072204,120.3904996,4.0,3163.0
+98,台南二寮觀日亭,ChIJ-XPq1RVvbjQRD21-L-YusKo,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9927444,120.4098726,4.4,3421.0
+99,二寮部落觀景點,ChIJKbWTpmpvbjQR7k6bHzbNypg,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9978256,120.4111793,4.3,221.0
+100,日月禪寺,ChIJd2x4VB1tbjQRw8kgViR26GM,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.8868367,120.3902954,4.3,128.0
+101,善德寺,ChIJEflietdtbjQR09Noql87IrY,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.9399617,120.3788031,4.3,11.0
+102,內門紫竹寺,ChIJyz9fO-ZrbjQRwR8dHFjgceU,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.9171817,120.4550319,4.5,4966.0
+103,草山月世界 馬頭觀景點,ChIJ1acPOE5vbjQR6_ZggwSfMBw,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0063439,120.4293886,3.3,295.0
+104,內門南海紫竹寺,ChIJvZPLgGlpbjQRrA72AHLCu_0,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.941761,120.4613647,4.5,750.0
+105,青瓜寮攔泥壩,ChIJp9i_pLlobjQRJdoRGGePv2Y,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9903738,120.4428203,3.9,16.0
+106,小玉山,ChIJy6rcsLxobjQRVkQCFMACdmU,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0015314,120.45390159999998,4.0,110.0
+107,五間步道,ChIJke-ghLBvbjQRsU8YrlAKnO0,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9438314,120.42365490000002,4.1,9.0
+108,台南夢幻湖,ChIJ_____yJsbjQRsXRsKX708EA,"['tourist_attraction', 'point_of_interest', 'establishment']",22.927533,120.4072494,3.9,110.0
+109,內門順賢宮,ChIJkR71989rbjQRLJpp38tveMk,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.912432,120.470409,4.3,535.0
+110,中新登山步道,ChIJG1J9mAJpbjQRcOtHLJx6ERk,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9665395,120.4733867,3.4,5.0
+111,臺灣基督長老教會木柵教會,ChIJ8XdRPuVobjQRLOlAmZbdvLw,"['tourist_attraction', 'church', 'place_of_worship', 'point_of_interest', 'establishment']",22.9765928,120.4694858,4.4,71.0
+112,旗山孔子廟,ChIJSb8r361rbjQRJMUlxPS_QqQ,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",22.88878,120.4762475,4.3,393.0
+113,鴨母寮朱一貴文化園區,ChIJgXwQX0NpbjQRuHksi3lrWmQ,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9394552,120.453374,3.9,147.0
+114,308高地觀景台,ChIJRVqXhdZobjQRWVW3xm6lmZs,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9758776,120.442203,3.8,242.0
+115,旗山老街,ChIJ2SN1qlJqbjQRlpX_OGuzUj4,"['tourist_attraction', 'point_of_interest', 'establishment']",22.8880694,120.4820373,4.1,22549.0
+116,旗山車站-糖鐵故事館,ChIJu0mEUlNqbjQRRgU7Ogedxco,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",22.8846222,120.4819841,4.0,3157.0
+117,旗山武德殿,ChIJKw0wFK1rbjQR_FIJrvefyUI,"['tourist_attraction', 'point_of_interest', 'establishment']",22.887975,120.4802389,4.1,745.0
+118,石拱迴廊,ChIJ25g5SlNqbjQR5p6-8e_S8Lc,"['tourist_attraction', 'point_of_interest', 'establishment']",22.88497659999999,120.4820693,3.6,40.0
+119,雷音寺,ChIJiUffuwNqbjQRMBEF9Y-DsPw,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.9097,120.5203469,4.4,97.0
+120,石頭護岸,ChIJq_RduVNqbjQR-oJ1U1855CI,"['tourist_attraction', 'point_of_interest', 'establishment']",22.8848173,120.4858322,4.0,33.0
+121,地景橋,ChIJf95allNqbjQRJD5PdTqmmpA,"['tourist_attraction', 'point_of_interest', 'establishment']",22.8843016,120.4856789,4.1,254.0
+122,美濃窯,ChIJeUZOjwZqbjQRgaudMdhsTi4,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9051246,120.5229797,3.9,268.0
+123,美濃民俗村,ChIJPbkMK21qbjQR8g3_lDT5L1U,"['tourist_attraction', 'point_of_interest', 'establishment']",22.8931389,120.513977,3.8,6928.0
+124,玉清宮,ChIJeZ7aSP5BbjQRkiwKr2aCkXs,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9080965,120.5296629,3.8,5.0
+125,崇光寺,ChIJhS9yoQRCbjQRnt-tHZZ9rYQ,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.9151349,120.5381969,4.3,27.0
+126,旗山聖若瑟天主堂,ChIJu3yQfqxrbjQRjcZXCqbrwu8,"['tourist_attraction', 'church', 'place_of_worship', 'point_of_interest', 'establishment']",22.88486499999999,120.4790158,4.4,179.0
+127,美濃單車漫遊(藍線)起點,ChIJ2RCWf_tBbjQR9bWy0i441IU,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9022693,120.5337437,4.2,5.0
+128,美濃客家庄教學農場,ChIJR2YkOHRqbjQR4t8jGO75WS4,"['tourist_attraction', 'point_of_interest', 'establishment']",22.8871057,120.522744,4.0,224.0
+129,美濃客家文物館 Meinong Hakka Cultural Museum,ChIJQ4RlwyZCbjQRVuhbdSagF6w,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",22.9110749,120.557548,3.9,2983.0
+130,美濃單車漫遊(紅線)起點,ChIJgfriLPVBbjQRKIkuMxGJdOw,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9046554,120.5508104,4.5,48.0
+131,廣進勝油紙傘,ChIJ17fNSvVBbjQRPlvZSZFQ2N0,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9081517,120.5507898,4.2,745.0
+132,府城天險,ChIJPxEJziHZbTQROQHQgosaJBY,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0203299,120.1094712,4.1,777.0
+133,城西濕地景觀區,ChIJbbRwyBjZbTQRxXTE8Obu1JY,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.0231925,120.10626090000002,4.2,25.0
+134,鎮門宮 | 鄭成功廟,ChIJ1c0TKiDZbTQRs6d5TrlH5Yo,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.0208234,120.1101756,4.2,98.0
+135,赤腳門神,ChIJc-4yhx_ZbTQRA3l2NcidRjg,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0210215,120.1102162,4.3,6.0
+136,四草綠色隧道,ChIJt0-ISOvYbTQRhg3rUteyQIw,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0196399,120.1361465,4.3,12881.0
+137,四草大眾廟,ChIJt0-ISOvYbTQRnwSP3yFs-T0,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.01993389999999,120.1351284,4.1,2762.0
+138,抹香鯨陳列館,ChIJw8tbN-vYbTQR5-r_fWMY-Rk,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",23.019806,120.1354963,3.8,170.0
+139,海靈佳城碑,ChIJ2d5eyZTYbTQRc6Ug4I_YSpY,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0201642,120.13515890000002,4.0,9.0
+140,奇美食品幸福工廠,ChIJtZ_qdvN1bjQRD6DCGTFVwfM,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9487412,120.2170025,3.9,4928.0
+141,牛稠子,ChIJHakTez50bjQRKVSr__1Mbog,"['tourist_attraction', 'point_of_interest', 'establishment']",22.95859399999999,120.225771,3.0,2.0
+142,牛稠子車站公園,ChIJkzJvAjJ1bjQRMNJW2DSa-M8,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9560792,120.2289347,4.5,385.0
+143,仁德麗池公園,ChIJWzg3gkR0bjQRAN-IguCyjWk,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9460566,120.2222814,3.6,26.0
+144,崇善公園,ChIJHboEdKB2bjQRaZrVYuMO4t0,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9745794,120.2300747,4.1,105.0
+145,開元寺,ChIJhbDsK-R2bjQRpVjFs3XJ8Dg,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.011085100000006,120.2230133,4.3,712.0
+146,柏楊文物館,ChIJqT54KYd2bjQRU8yjiQTLA9w,"['museum', 'tourist_attraction', 'university', 'point_of_interest', 'establishment']",22.9853163,120.2059548,4.0,16.0
+147,耘非凡美術館,ChIJGZ2OIpp2bjQR8byt2k5kt2Q,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",22.984659,120.2216825,4.4,163.0
+148,東成會館-東成幸福婚宴會館,ChIJfeRH_xBwbjQR6ousiFCWE9s,"['restaurant', 'tourist_attraction', 'home_goods_store', 'food', 'point_of_interest', 'store', 'establishment']",23.0256242,120.3292659,4.0,1406.0
+149,新建大造形石雕石藝,ChIJqzAo0G1xbjQR1nn1-mKfWRk,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9739081,120.2829976,4.5,4.0
+150,微細科技股份有限公司,ChIJgXn9ka1xbjQRGniFxOkuaz8,"['tourist_attraction', 'point_of_interest', 'store', 'establishment']",22.9960119,120.3092841,0.0,0.0
+151,中興大學新化林場,ChIJiVr_zuNvbjQRUZcMOGqbdRc,"['tourist_attraction', 'lodging', 'park', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",23.026979500000003,120.3525854,4.1,630.0
+152,虎頭埤,ChIJ5cR9Fv9vbjQRLSiI-ISs55U,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0271187,120.3360309,4.1,3010.0
+153,台灣基督長老教會口埤教會,ChIJUY5rTeNvbjQR_UVXRIM43NU,"['tourist_attraction', 'church', 'place_of_worship', 'point_of_interest', 'establishment']",23.0253887,120.3502855,4.6,60.0
+154,新化休閒自行車道,ChIJ2SGBMhtwbjQRc9ndvavNtww,"['tourist_attraction', 'point_of_interest', 'establishment']",23.027168,120.3356389,3.8,24.0
+155,草山月世界,ChIJe5OuuLxvbjQRvswl-rUXkqQ,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9871857,120.42424009999998,0.0,0.0
+156,草山月世界大峽谷,ChIJQYI4fc5objQRC29_uE9aaPE,"['tourist_attraction', 'point_of_interest', 'establishment']",22.985992,120.4421863,4.0,322.0
+157,內門木柵吊橋,ChIJC3JqwfFobjQRwaNfMxF8IZ0,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9809754,120.4714799,3.8,79.0
+158,石厝登山步道,ChIJqXt6CO5objQRWRxyHirRQuY,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9831717,120.4700617,3.4,18.0
+159,烏山台灣彌猴保護區,ChIJ_W0kKYpdbjQRYedXAfKkX6U,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.0252434,120.4955982,4.3,1230.0
+160,圓潭農庒,ChIJH0QdgJRpbjQRlRGCI7Gudt8,"['tourist_attraction', 'point_of_interest', 'establishment']",22.93323,120.502049,4.2,70.0
+161,台江獨木舟體驗中心,ChIJBdGLtsHYbTQR17ehOwM8otU,"['tourist_attraction', 'point_of_interest', 'establishment']",23.015725,120.1315854,4.5,10.0
+162,四草湖,ChIJgZgPlZTYbTQRPxZ71cOH8-U,"['tourist_attraction', 'natural_feature', 'point_of_interest', 'establishment']",23.0193876,120.1374079,4.4,106.0
+163,四草親水公園,ChIJv9CLMuvYbTQROk3djShfzts,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0189694,120.13566670000002,3.7,15.0
+164,北汕尾媽祖宮鹿耳門天后宮,ChIJQwtjhvfYbTQRL3Gv_yRSotk,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0372099,120.1244579,4.6,4930.0
+165,鹽田生態文化村,ChIJBQEm4Y3YbTQRxGdhaUH04C8,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0260216,120.14127240000002,3.5,585.0
+166,歐洲古董臻時館,ChIJv8HPl9h1bjQRvpoisovnylM,"['tourist_attraction', 'museum', 'home_goods_store', 'point_of_interest', 'store', 'establishment']",22.9714274,120.1955411,4.4,57.0
+167,警察新村彩繪村,ChIJs-is9NN1bjQRJGL0j4PE0IQ,"['tourist_attraction', 'point_of_interest', 'establishment']",22.974814,120.200774,3.7,272.0
+168,鹽埕出張所,ChIJTTWFCMR1bjQRpyrxFzCQ1lM,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9677545,120.1880197,4.0,124.0
+169,台南市金華公園,ChIJmW90-th1bjQRLD9exHN3aVo,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.980668,120.190215,4.0,299.0
+170,大成公園,ChIJIeU4KNd1bjQRgjq1EU-V3lw,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9766006,120.1963712,4.2,56.0
+171,海口人生-四鯤鯓駐地工作站,ChIJ41n6xJR1bjQRlqaHREKNMjY,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9589164,120.1721598,5.0,2.0
+172,永華公園,ChIJie-1EnV2bjQRYmU6dB677gE,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9853396,120.1840997,3.8,16.0
+173,竹溪寺,ChIJMWkT9Cp0bjQRjAUrSw3QTLQ,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.9773396,120.2084909,4.2,310.0
+174,客家文化會館,ChIJlwh-yXl2bjQRZt8_E4wcMuE,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9852289,120.1945776,4.0,128.0
+175,古都兒童樂園,ChIJjUaBJIB2bjQR2NtEzrHzDOs,"['amusement_park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9788601,120.205383,4.2,38.0
+176,臺南運動公園,ChIJwzONAYB2bjQRd8Apx4y7eAM,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9797734,120.2052045,4.1,2457.0
+177,臺南市立體育公園,ChIJYUOHBoJ2bjQRmGpX-vM22xc,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",22.9759334,120.2098503,4.2,1089.0
+178,台南開心有機農場採草莓,ChIJVVVVVch1bjQR7nuSMcYTk2A,"['tourist_attraction', 'point_of_interest', 'establishment']",22.950583,120.194774,3.9,252.0
+179,臺南市忠烈祠,ChIJ44vmJ4J2bjQRxh0oRklM-fk,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9803165,120.2110249,3.5,64.0
+180,法華寺,ChIJS1LXtIZ2bjQRE0vIwxsPDXg,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.98378469999999,120.2093403,4.4,209.0
+181,臺灣府城 巽方砲台,ChIJ9-VOB5t2bjQR3OnJZAmPBro,"['tourist_attraction', 'point_of_interest', 'establishment']",22.984267000000006,120.219477,3.5,94.0
+182,大東夜市,ChIJPUnSeZt2bjQRbdloDIos_Po,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9826132,120.2193412,4.3,20731.0
+183,三角公園,ChIJk8pVFJt2bjQRiP5PEWiBoY4,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9834484,120.2181705,3.9,250.0
+184,原臺南州立農事試驗場宿舍群(丙種官舍),ChIJm1E9rZt2bjQRTmXHXgs320g,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9842532,120.2200331,4.2,177.0
+185,裕敬公園,ChIJxzzIjq52bjQRETCVxqIn87E,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9790278,120.2440587,3.9,97.0
+186,文聖公園,ChIJm-zpKLB2bjQR9v9YWedxOsI,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9829623,120.2425259,4.1,776.0
+187,土庫休閒自行車道,ChIJxUq_x0hxbjQRsNFNnRC2Q_c,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9846889,120.2612564,3.1,74.0
+188,新化老街,ChIJHWTFiXpwbjQRSnel5LNZHGM,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0352429,120.30824540000002,3.9,5140.0
+189,新化街役場（用餐評論請至-街役場古蹟餐坊）,ChIJVRhSInpwbjQRgD-zOBoWRWs,"['tourist_attraction', 'point_of_interest', 'establishment']",23.038276,120.3073319,4.0,1487.0
+190,楊逵文學紀念館,ChIJjXUhGHpwbjQRFJQ7yO9xumU,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",23.038039,120.3076802,4.1,338.0
+191,日式宿舍群,ChIJlTx8BXBwbjQR-TpLXwGpFlM,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0333954,120.3095144,4.0,732.0
+192,360。 日出亭,ChIJE2Zy-hZvbjQRSbMoj-Cq4CE,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9954033,120.41035,4.3,187.0
+193,青瓜寮攔砂霸,ChIJ_bV4X8lobjQR74SzMKcH310,"['tourist_attraction', 'point_of_interest', 'establishment']",22.990059,120.441548,5.0,1.0
+194,山尾埤登山步道,ChIJ6VhIK5JobjQRtfzR5R5vjd8,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",22.994473100000004,120.4687494,3.8,23.0
+195,金光山厚德紫竹寺,ChIJbxRXILxnbjQRLboNrx3eKyQ,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0301658,120.500798,4.3,1947.0
+196,美濃杉林花海,ChIJ4znnrYFCbjQRuat3a-LEuyk,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9570606,120.53015159999998,4.1,692.0
+197,高雄杉林黃家伙房,ChIJt-PCuoNCbjQRU-_yK_E9y14,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9603941,120.5321496,4.1,36.0
+198,袖珍版亞馬遜河,ChIJmcQYTOvYbTQRV1dYKJGbHaY,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0200643,120.1355004,4.5,43.0
+199,台南市二二八紀念公園,ChIJ3-drMHN2bjQRwxe7jwPVVOc,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",22.99156,120.1826689,3.6,81.0
+200,臺南市兒福中心-兒童館,ChIJPeFUym12bjQRrbPTPws2OBA,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9913348,120.1865288,4.4,653.0
+201,台南聖教會 Tainan Holiness Church,ChIJmfXng212bjQR3SFvWcn61m8,"['church', 'tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.9947975,120.1851333,4.7,519.0
+202,水萍塭公園,ChIJVwLOQXd2bjQRF-y5W063HHw,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",22.986210600000003,120.1934368,4.1,5360.0
+203,石珠公園,ChIJiwDT4Qp2bjQRQ8Ptpwm2Psg,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9874094,120.1803875,4.1,50.0
+204,石頭公園,ChIJW1XN_eF1bjQRm78ewleItyY,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9852171,120.1764789,4.0,94.0
+205,新藝市集,ChIJZ2jpi3F2bjQRROnkUyqHKyE,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9920761,120.187418,0.0,0.0
+206,藍晒圖文創園區,ChIJtbdB0Xt2bjQR1IE4qcWD-lg,"['tourist_attraction', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",22.987102,120.19734540000002,4.2,20439.0
+207,新松金樓遺址,ChIJKYLqfnB2bjQR_At7eNPf0r8,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9903604,120.1933056,0.0,0.0
+208,康樂市場,ChIJd6IdK2V2bjQRg02nT99aidQ,"['tourist_attraction', 'point_of_interest', 'establishment']",22.992289000000003,120.1962659,3.9,212.0
+209,台南林百貨,ChIJrZJc4GJ2bjQRa3BRyIgtRcM,"['department_store', 'tourist_attraction', 'point_of_interest', 'store', 'establishment']",22.9917925,120.2025232,4.3,18159.0
+210,文創plus 台南創意中心,ChIJ8Q1AaX12bjQRyzRE5ckbBbI,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9888336,120.2042058,4.2,367.0
+211,嘉南農田水利會,ChIJrx3iqWJ2bjQRiBcwUBqAvMQ,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9906984,120.205098,4.0,32.0
+212,葉石濤文學紀念館,ChIJ77e_NH12bjQRvE_q25BxhpU,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9909424,120.2036922,4.2,308.0
+213,奎樓書院,ChIJl9BtoIh2bjQRumr06jfQhDE,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9894449,120.209549,3.8,37.0
+214,原嘉南大圳組合事務所,ChIJBTYnqmJ2bjQR_K91emJyRxI,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9905684,120.20506129999998,4.0,12.0
+215,六合境清水寺,ChIJX7pbOYh2bjQReRIgFnzFSU4,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",22.991725,120.2061844,4.4,45.0
+216,新心生活藝術館,ChIJbzTJzpF2bjQRdG78w5-HFyE,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",22.990703,120.217584,4.3,45.0
+217,東寧運動公園,ChIJoTIBg5Z2bjQRoVzPyztKEyc,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9913922,120.2247529,4.1,884.0
+218,千禧公園,ChIJU6TYhbB2bjQR2ykjNUH6mls,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9859668,120.2403567,4.1,175.0
+219,九號公園,ChIJncrXQI52bjQRoTDStBl3lC0,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.991971,120.215037,4.1,497.0
+220,關聖里,ChIJtQST8rN2bjQRvCfYAwy5MyI,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",22.98617759999999,120.2467239,3.9,177.0
+221,鯽潭橋,ChIJH3NcWrV2bjQRNkv-WyhKFMo,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9910889,120.250441,3.3,12.0
+222,TJCOS台鉅美妝觀光工廠,ChIJ4QHDj0lxbjQRdo0g5kSkiJg,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",22.988605,120.25708600000002,4.1,3336.0
+223,郭姓祖祠－郭光侯古宅,ChIJX-e9UxFxbjQREzX8EX43PcQ,"['tourist_attraction', 'point_of_interest', 'establishment']",22.991026100000006,120.2803695,4.5,19.0
+224,新化武德殿,ChIJdRBEqXpwbjQRpbG_yecjX6c,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0334213,120.3087144,4.1,1649.0
+225,綠谷西拉雅,ChIJ7TonbJNvbjQRxn99JHN_Zjk,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0160751,120.3685302,4.0,963.0
+226,巨鱷觀景點,ChIJL4XTNrNobjQRwaPJWHRw0Ho,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0023899,120.436278,2.9,35.0
+227,白水泉瀑布,ChIJK_MykRNdbjQRSAdmGQSfoko,"['tourist_attraction', 'point_of_interest', 'establishment']",23.01948699999999,120.5547659,3.1,33.0
+228,高雄杉林月美里樂善堂惜字亭,ChIJ-dr7pHhCbjQRb5_B2cbuifA,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9482028,120.5284739,5.0,1.0
+229,高雄杉林上平里辰峰寺敬字亭,ChIJcRYRU7xCbjQR_Oz8zWzj8R0,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9756125,120.5427808,3.0,4.0
+230,葫蘆雕刻藝術館,ChIJMd8aHM1CbjQRR4dlCkj3TRI,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",22.9889421,120.5595895,4.3,30.0
+231,曾文溪口濕地,ChIJYRuEsdXbbTQRFKHYNtmdYW0,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.0519287,120.068364,4.1,31.0
+232,台灣之門鹿耳門,ChIJPRDhHPbYbTQR2MT9fUjmlRw,"['tourist_attraction', 'point_of_interest', 'establishment']",23.037076100000004,120.1214125,4.4,44.0
+233,四草野生動物保護區,ChIJ8x-_7ozYbTQRRbbeX8wOtTY,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.0295254,120.1377126,4.1,169.0
+234,安平運河公園,ChIJ78Bw8RF2bjQRVL-SvfrmB7s,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.997428,120.17573590000002,4.2,506.0
+235,札哈木原住民公園,ChIJpQ8HkgN2bjQRsbJO8mMmw00,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9949517,120.1640026,3.9,661.0
+236,安平鄉土文化館,ChIJP03l3hx2bjQRy9TGtn5FMOk,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",23.0002954,120.1624122,4.2,59.0
+237,劍獅公園,ChIJ_QqN2xp2bjQRZes212P31iY,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9988397,120.1681548,3.9,316.0
+238,安億橋下河底觀景步道,ChIJ_WkWTgN2bjQRuexM5cX2y_o,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9982865,120.1638145,3.2,257.0
+239,鄉飲大賓主題館,ChIJ09Aa5Bx2bjQR8GTGcp7Zg8I,"['tourist_attraction', 'food', 'point_of_interest', 'establishment']",23.0010054,120.1622252,2.8,4.0
+240,湖美麗景公園,ChIJDT6fkRR2bjQR60SrENtW-NY,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.002756,120.1829973,4.0,156.0
+241,兌悅門,ChIJfZcDzWd2bjQR02aNvuVt9ks,"['tourist_attraction', 'point_of_interest', 'establishment']",23.00070059999999,120.1943685,4.3,640.0
+242,臺郡三郊水仙宮,ChIJwRyTJ2R2bjQRtvAFmP9ZEGk,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.99670619999999,120.1982049,4.4,123.0
+243,原臺南運河海關,ChIJs7wv6292bjQRpoZPNQ_FduI,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9963361,120.1925269,4.1,34.0
+244,台南 東寧文旅 (海安路.國華街.正興街.台南美食),ChIJITstV2R2bjQRTY8uefANrUc,"['tourist_attraction', 'lodging', 'food', 'point_of_interest', 'establishment']",22.994988100000004,120.1969855,4.1,535.0
+245,金華府,ChIJm0DtKmR2bjQRfdtZDkGqHaU,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.997391,120.196582,4.3,56.0
+246,樂暢居茄苳入製作維修,ChIJPVcRpGh2bjQRlfIGnDlYKuc,"['tourist_attraction', 'home_goods_store', 'point_of_interest', 'store', 'establishment']",22.999146,120.193139,5.0,2.0
+247,五條港歷史區域地方文化館,ChIJhy_3gWZ2bjQRWnuAsu6rUro,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9974854,120.1967932,4.2,9.0
+248,臺灣祀典武廟,ChIJ_3sZgmF2bjQRJqNT18Vuoa0,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.9966588,120.20226940000002,4.6,2801.0
+249,開基玉皇宮,ChIJf_iGlop2bjQRE8tKT1uYg-A,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.999877800000004,120.2069933,4.6,3673.0
+250,大觀音亭,ChIJR1k1iIp2bjQRTd20p8ZZ7-M,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.9984954,120.206129,4.6,2220.0
+251,國立成功大學綠色魔法學校 綠建築示範基地,ChIJYy4JffJ2bjQR9qo2QcXG-bU,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0015754,120.2160821,4.4,625.0
+252,日軍臺灣步兵第二聯隊營舍,ChIJ77Z_4pJ2bjQR824lbWr2DqU,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9996542,120.2164005,4.0,21.0
+253,國立成功大學榕園,ChIJA8Fcl_J2bjQRq2u0GBY3__U,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0003294,120.21615990000002,4.6,2978.0
+254,臺灣府城隍廟,ChIJe4vW44h2bjQRAnoOP1_0hTw,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.9919878,120.2090649,4.6,538.0
+255,東嶽殿,ChIJc6dZvoh2bjQRV5gSTtjYA4k,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.9905068,120.20934309999998,4.5,1359.0
+256,阿里巴巴機車出租-台南二店(台南租機車）,ChIJQ5IFI_J2bjQRbsVn03L7cME,"['car_rental', 'tourist_attraction', 'travel_agency', 'car_repair', 'point_of_interest', 'establishment']",23.00009189999999,120.21177620000002,4.6,1270.0
+257,千畦種子博物館,ChIJ5bF_ecJ2bjQR0AK5Dn7KFD4,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0037146,120.2285456,3.9,1277.0
+258,永康公園,ChIJddWIPc52bjQR4yPHlXrafG4,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.002754,120.244039,4.2,1513.0
+259,平實公園,ChIJiYJX8cZ2bjQRm80ovBG2wM8,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9960764,120.23634409999998,4.3,1221.0
+260,東和公園,ChIJ9eReGut2bjQRS6noDtTxD6Q,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9988652,120.225174,4.4,16.0
+261,南瀛眷村文化館,ChIJ_Y_hdMV2bjQRERkuwOMcFJ0,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",23.0023185,120.238401,3.9,91.0
+262,zero zero 拆車夢工廠,ChIJOzx60s53bjQRE5T2gxLR6Vw,"['tourist_attraction', 'point_of_interest', 'establishment']",22.9990458,120.2491182,4.9,2409.0
+263,立康中草藥產業文化館,ChIJe4QQVp9wbjQRmaT07ePzwx4,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",23.046035,120.274197,3.7,2066.0
+264,鄭成功墓址紀念碑,ChIJi-PwxD93bjQRF_RGDOPAI7s,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0368136,120.2289136,3.6,78.0
+265,台南市兒童科學館,ChIJY8dGjfN2bjQRtDCkC0cyp-A,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",23.003628,120.211445,4.2,652.0
+266,梁道故居,ChIJz2vED3pwbjQR9ZQAlspjbmM,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",23.037669,120.308294,4.5,11.0
+267,噶瑪噶居寺,ChIJmTMgo_pxbjQRsP_qL-XUEto,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.053242800000003,120.398826,4.5,1119.0
+268,五峰山野生獼猴保育區,ChIJb0vxkMdnbjQRSZd7w1B-WfU,"['tourist_attraction', 'point_of_interest', 'establishment']",23.024873,120.495405,3.8,17.0
+269,桃花心木林步道,ChIJ6w14MbVnbjQRT7wJb20GKA8,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0303611,120.482245,3.2,5.0
+270,刣牛湖山,ChIJmez_bnxnbjQRSBbbihLE5-k,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.0485047,120.523055,4.2,110.0
+271,烏山健康步道,ChIJ3WcYTclnbjQRI1uq5QJGxgA,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.027947,120.5027178,4.2,56.0
+272,紅烏頂土雞餐廳,ChIJPzWxjLxnbjQRx6JmsLFvSQQ,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0323049,120.4988315,4.1,42.0
+273,七股海堤,ChIJnxFcMzjabTQRaTK9PpRgMHU,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0674832,120.0462302,4.5,95.0
+274,新浮崙汕,ChIJwaJFhkjabTQR9bVJDhJGsnE,"['tourist_attraction', 'point_of_interest', 'establishment']",23.067179,120.040291,4.0,1.0
+275,鄭成功紀念公園,ChIJ8RmRckvYbTQRFxxONYK-_cQ,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.0587566,120.1148252,3.4,133.0
+276,媽祖宮九塊厝生態園區,ChIJfxKEWljYbTQRpuU48PDGOIY,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0428417,120.12708909999998,4.5,20.0
+277,正統鹿耳門聖母廟,ChIJ9dOdnz7YbTQRJkhAq2apnGE,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0680234,120.12724140000002,4.6,2274.0
+278,連雅堂紀念公園,ChIJO2FICl52bjQRYVlOMhA63pg,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.0033439,120.199481,3.7,396.0
+279,臺南西華堂,ChIJVyiZT4t2bjQRsCQBm8q5O7Q,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.9994222,120.2100104,4.2,86.0
+280,勝安香草運動公園,ChIJV1IZ2_F2bjQRQ57Q9iTwy0w,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.00596879999999,120.21604109999998,3.8,142.0
+281,臺灣府城 大北門(拱辰門)遺址,ChIJY_VcD_N2bjQRWrK3ll64v4c,"['tourist_attraction', 'point_of_interest', 'establishment']",23.001669,120.212979,4.2,44.0
+282,Zongye Old Street,ChIJMT-UzIp2bjQRmeE81sbYINY,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0009377,120.2071313,3.9,38.0
+283,小東公園,ChIJx_b1Nep2bjQRquoby45HTrI,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0011694,120.2257725,4.1,1471.0
+284,三分子日軍射擊場遺址,ChIJYQgeeg93bjQR_g6Udr3JMJw,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",23.00391819999999,120.22750320000002,3.0,1.0
+285,永康公七公園,ChIJu4TYldx2bjQR1Dxr41Qj_eM,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0074401,120.23288,3.9,224.0
+286,阿勃勒黃金步道,ChIJ5adWxet2bjQR6HvcQVZlzQU,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0016659,120.2245671,4.0,47.0
+287,開元公園苦楝樹,ChIJVQmsleh2bjQRYbq-6TXyKE4,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0066883,120.2240274,4.2,114.0
+288,國立臺灣歷史博物館 (8/21-9/14年度整修休館),ChIJC7CiCuJ5bjQR0UEDGKs4KF0,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",23.0583737,120.23498390000002,4.4,8513.0
+289,臺南左鎮化石園區,ChIJQ9W8A6plbjQRGDjCdnI9f9M,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",23.06425549999999,120.3891486,4.4,7083.0
+290,李家古厝,ChIJr7VOoUJvbjQRNAcg9NFRF1Y,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0093892,120.4165168,3.8,23.0
+291,金光山財神廟,ChIJHfyVz5lnbjQRxdh8lu19fOE,"['tourist_attraction', 'point_of_interest', 'establishment']",23.034416500000006,120.5080005,4.1,307.0
+292,金宗禪寺,ChIJwYW9WJ5nbjQR4Hrc0B35pZc,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.0417105,120.5087496,4.5,35.0
+293,黑面琵鷺棲息地,ChIJM0pD67nQbTQRZOYawJWFLhY,"['tourist_attraction', 'point_of_interest', 'establishment']",23.07177729999999,120.05272859999998,3.6,11.0
+294,第三賞鳥亭,ChIJWwSLPxXabTQRJLRmXd7KS0o,"['tourist_attraction', 'point_of_interest', 'establishment']",23.07891499999999,120.0447573,4.3,32.0
+295,第一賞鳥亭,ChIJj46vDxfabTQRyljqiuFI2Pg,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0790863,120.0529404,4.3,493.0
+296,黑面琵鷺第二賞鳥亭,ChIJXxHLBRfabTQRmm6AFjaErBE,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0790102,120.0526284,4.5,22.0
+297,黑面琵鷺野生動物保護區,ChIJv0RnnzrabTQRmFHvy8-vjlQ,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.0791864,120.0530959,4.4,601.0
+298,熱蘭遮城博物館(永漢民藝館),ChIJnfrSER12bjQRtbLFKgpnJJg,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0012583,120.16017,4.4,122.0
+299,安平天主教文物館,ChIJH2e4Ux12bjQRbRUBSydV5yE,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",22.9999975,120.1589645,3.7,9.0
+300,四聯境普濟殿,ChIJtVJ6zWZ2bjQRfxOI8R_fo9E,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",22.9988217,120.1991605,4.6,1002.0
+301,風神廟,ChIJNaqC2mV2bjQREZmy3DOVuYI,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",22.997113100000004,120.1957301,4.4,206.0
+302,和順公園,ChIJTwPHRF52bjQRc7dZNBW8s1Y,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0038331,120.201242,4.0,121.0
+303,鴨母寮市場,ChIJBx45LWB2bjQR5lvevXw5djs,"['tourist_attraction', 'point_of_interest', 'establishment']",22.998881,120.204609,4.1,3143.0
+304,鎮轅境頂土地公廟,ChIJ2eCYLfV2bjQRAn-Bp7va8Wk,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.000789,120.207354,4.7,195.0
+305,郭柏川紀念館,ChIJKWp_UvR2bjQR99dsZhUwC2s,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",23.0037392,120.2080629,4.6,36.0
+306,振興公園,ChIJUUmRvEl3bjQROx9IPyOyKh4,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0066297,120.2231262,4.2,204.0
+307,開元公園（美國學校）,ChIJB7ThT-92bjQRW4QslNBM69s,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0073991,120.221441,4.2,115.0
+308,小橋公園,ChIJo7ST-iN3bjQRwNB-CHN5x7s,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.022529100000003,120.233504,4.0,582.0
+309,臺灣府城 小東門段城桓殘蹟,ChIJQWUDP-12bjQR9DikaW1dJUg,"['tourist_attraction', 'point_of_interest', 'establishment']",22.999451500000006,120.218255,4.3,165.0
+310,光武公園,ChIJSf1y1fp2bjQR-q-dutjGXEU,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0120258,120.2165057,4.2,34.0
+311,探索教育公園,ChIJp-mp3tFwbjQR6XnzNqfad8Y,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0216942,120.2588196,4.1,2511.0
+312,慈蓮寺,ChIJn-e0GW5vbjQRmR-nVykvIk8,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.009899,120.4028136,4.5,140.0
+313,榮格湖,ChIJU-XsjMNvbjQR5izij64TUDc,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0170424,120.3986883,3.0,1.0
+314,大圓滿廟,ChIJdUTM90RmbjQR_k21FqRn0YE,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.03994,120.466561,4.3,37.0
+315,南遊山莊,ChIJH1zVOVJmbjQRrVCGRugWx28,"['amusement_park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0422878,120.4773407,4.0,5.0
+316,黑面琵鷺生態展示館,ChIJSYsOWxzabTQR7L0m0A0HWtg,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",23.0813903,120.062715,4.3,187.0
+317,賢良公園,ChIJ1YeCkkB2bjQR0B68iXzfV4k,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0084222,120.18381770000002,4.0,63.0
+318,賢北公園,ChIJu9g4AUB2bjQR5t7TvJr3rsM,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0061181,120.1822824,3.8,91.0
+319,湖美公園,ChIJF1O6sRR2bjQRbJ_jGN2o60Q,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0014122,120.1815368,4.1,130.0
+320,西賢公園,ChIJmbm-BRR2bjQRigUwQodQ4ow,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.002133800000006,120.1775175,4.0,126.0
+321,立德公園,ChIJITMW2fd2bjQRdG18GfXuqc0,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0099894,120.2053467,4.1,255.0
+322,育德公園,ChIJiedsz152bjQRfyIYpL7JPps,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.006646300000003,120.2012639,3.9,130.0
+323,福安公園,ChIJmxHGLP52bjQRcM1gCSTV628,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.021492,120.20804440000002,4.1,81.0
+324,神秘恐龍公園,ChIJCbyytQB3bjQRGu9RWrjABzE,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.027241,120.2062309,3.6,43.0
+325,恐龍公園,ChIJG3MsSwd3bjQR051bVwLWyGY,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0276702,120.2063476,3.4,251.0
+326,正覺寺,ChIJqZ5Npf12bjQRCizCjkGEbeA,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.0188229,120.2130945,4.4,274.0
+327,愛鳳小吃店,ChIJQ0M9Gmd2bjQR90g4I2jcBi0,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0005599,120.19748490000002,3.8,24.0
+328,媽祖樓天后宮,ChIJkTfSG2d2bjQRdgQDcUTJy98,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.0004194,120.19754840000002,4.4,122.0
+329,烏鬼井,ChIJc9Ko5l92bjQRd2NFAjFhKFI,"['tourist_attraction', 'point_of_interest', 'establishment']",23.001665,120.204006,3.7,149.0
+330,飛雁新村傳原通訊所,ChIJwVXztB13bjQRqHsVPG14tJo,"['tourist_attraction', 'point_of_interest', 'establishment']",23.021812799999992,120.2207107,3.8,14.0
+331,山海圳綠道,ChIJJ7boAAV3bjQRSsydd-o7Y3E,"['tourist_attraction', 'point_of_interest', 'establishment']",23.02899,120.2138961,4.1,60.0
+332,國立成功大學台灣文學系,ChIJ6UmkZvJ2bjQRh900vOGXKEk,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0019673,120.2155594,4.5,26.0
+333,大地化石礦石博物館,ChIJJ3BRZsBwbjQRnac2vJU1Vc0,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0341072,120.271823,4.2,46.0
+334,南化波羅蜜園,ChIJq5z8EltmbjQRifccoGRjsL4,"['tourist_attraction', 'point_of_interest', 'establishment']",23.044513100000003,120.4661494,3.6,14.0
+335,寶光玉山,ChIJRfdB2JtobjQRXgltsjRdex4,"['tourist_attraction', 'point_of_interest', 'establishment']",23.06920969999999,120.5144082,4.4,1652.0
+336,國聖港,ChIJeR4RPADabTQRaKw1I1Qnmpw,"['tourist_attraction', 'point_of_interest', 'establishment']",23.093108800000003,120.0654974,4.3,3.0
+337,飛虎將軍廟,ChIJmT7vmLt3bjQR4vMJJSQjLqE,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.0405507,120.190291,4.7,131.0
+338,梅花公園,ChIJT9BFZqN3bjQRgAxpX3ysPz4,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.041286,120.195247,4.0,218.0
+339,大愛公園,ChIJR2JBuQl3bjQRhshHU4Yr1Ko,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0366041,120.2067971,4.0,93.0
+340,鳳凰公園,ChIJMaP9zaN3bjQReb1dr6bTozU,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.042377,120.19858700000002,3.8,146.0
+341,陳卿寮保山宮,ChIJ-6Gyigp3bjQRACT0fuoAPio,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0410389,120.206429,4.0,25.0
+342,迎曦湖,ChIJuUR-nVJ6bjQR19hpun9_yNs,"['tourist_attraction', 'natural_feature', 'point_of_interest', 'establishment']",23.0876129,120.2846858,4.2,1066.0
+343,南圳綠堤堤岸公園,ChIJg9g8V2VwbjQRpyVWMmwPM6U,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.03111239999999,120.3048641,4.2,406.0
+344,瓜瓜園地瓜生態故事館(觀光工廠) 直營總店,ChIJbbFYGGZwbjQRnuXgjw8gvDY,"['tourist_attraction', 'point_of_interest', 'establishment']",23.026402800000003,120.3082428,3.9,2431.0
+345,新化防空洞,ChIJ3ajbB3BwbjQRbGk4iWb0LkE,"['tourist_attraction', 'point_of_interest', 'establishment']",23.033618,120.3093654,3.5,33.0
+346,大目降故事館,ChIJPfsCF3BwbjQRgu9r8tO_3CY,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0335159,120.3101793,3.9,143.0
+347,大正十一 · 新化日式宿舍,ChIJAb1QaGdxbjQRxxG7EK2v1Uk,"['tourist_attraction', 'point_of_interest', 'establishment']",23.033589000000006,120.3103557,3.0,1.0
+348,蘭科植物園,ChIJi3Dt2exkbjQReq1BNzcnWFw,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.093189,120.374614,4.1,436.0
+349,臺南山上花園水道博物館-淨水池區,ChIJDUo-98RkbjQRQ5i4O2Lkx-E,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0863593,120.3607011,4.2,4931.0
+350,玉井白色教堂,ChIJeVsPYSBkbjQR_J7uUGd6mgc,"['tourist_attraction', 'point_of_interest', 'establishment']",23.089368,120.455099,4.1,1938.0
+351,加利利漂流木方舟教堂,ChIJ-1mWkD1hbjQRqNmAS99fANg,"['tourist_attraction', 'church', 'place_of_worship', 'point_of_interest', 'establishment']",23.0933327,120.4947628,4.0,516.0
+352,噍吧哖抗日英雄紀念碑,ChIJucxNdVNmbjQRpOr_usLLMQU,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0583738,120.53650220000002,4.1,93.0
+353,頂頭額沙洲,ChIJK_7gG5zQbTQRFSOD6MDdQj8,"['tourist_attraction', 'point_of_interest', 'establishment']",23.105021,120.0371939,4.4,1099.0
+354,國聖燈塔,ChIJvfBljp3QbTQRjCLKROPbG7U,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1006873,120.03585359999998,4.1,3406.0
+355,南灣碼頭遊憩區,ChIJN6BtvrvQbTQRl2owggXSehw,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1086225,120.045179,4.0,218.0
+356,極西點,ChIJm7oBIXbabTQR8HYy2lBq9l8,"['tourist_attraction', 'point_of_interest', 'establishment']",23.10071599999999,120.035994,4.6,16.0
+357,臺灣本島最西點,ChIJ49OG8GnabTQR9wo1PrlXP2o,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1043994,120.0352877,4.2,196.0
+358,濟福寺-台南旅遊景點-保生大帝-文昌帝君-福德正神,ChIJ0Y0EqnB3bjQR9yNpx9Mi1ZA,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.053449800000006,120.2112147,3.6,11.0
+359,三崁店神社遺址,ChIJd76fgFZ3bjQRaKgl2wcxqAI,"['tourist_attraction', 'point_of_interest', 'establishment']",23.054487,120.244838,3.9,156.0
+360,台灣金屬創意館(志鋼金屬),ChIJkRuQt5hwbjQRzegFDP_Dvsw,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0442335,120.2772905,4.1,536.0
+361,樹谷生活科學館,ChIJN2_H1tF7bjQRHNxbqjwAq1o,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",23.1042548,120.2625892,4.2,4872.0
+362,雲天廣場水舞台,ChIJjVEXz1h3bjQRaTe8Og-l5zs,"['tourist_attraction', 'point_of_interest', 'establishment']",23.057541600000004,120.234552,4.1,21.0
+363,普賢院,ChIJbZaoynh6bjQRtyuMEy-Nx5Y,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.048859,120.291607,4.7,29.0
+364,頂菜寮柑仔店,ChIJE3GG8CRlbjQRascBu6xksVk,"['tourist_attraction', 'point_of_interest', 'establishment']",23.063976500000006,120.3877079,4.0,2.0
+365,四草濕地,ChIJe1ncAGbYbTQRsDNM405-DMs,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0463461,120.1414613,4.5,46.0
+366,快樂萬花筒,ChIJazoE7-F5bjQRFYJsLXjkeKs,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0603544,120.2333953,4.0,21.0
+367,希望之丘,ChIJLUybHeJ5bjQRWp38bB4oMug,"['tourist_attraction', 'point_of_interest', 'establishment']",23.060299800000006,120.23400990000002,4.2,279.0
+368,牽手橋一博物館,ChIJEWy-cOJ5bjQREsb15Z0dInI,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",23.059420000000006,120.2360557,4.3,29.0
+369,台南市永康區體一運動公園,ChIJr8dJVXN6bjQRYAYb6R7vWXs,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0563984,120.2743788,4.0,109.0
+370,兒南公園,ChIJ7z0nXm17bjQRv2JXZ2JwAlI,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.1093503,120.309197,3.6,58.0
+371,道爺南糖廍遺址,ChIJA9TljLV7bjQRdgV0b8zG7Bk,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0976703,120.2744222,4.4,9.0
+372,南瀛天文館,ChIJl64-Rn9jbjQRjciFlk2qCt0,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",23.11805769999999,120.39173429999998,4.3,1120.0
+373,鈺鼎步道,ChIJ5WwolUtnbjQRiMUPa72d_8A,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.0830885,120.5093715,4.3,385.0
+374,南化鹽水坑泥火山,ChIJl1lpclJnbjQR4FhzwTvIn00,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0816484,120.5170438,3.8,13.0
+375,溪南寮興安宮,ChIJhSVVKgfYbTQR5fUIqqjv6UA,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0700538,120.1561688,4.2,30.0
+376,華美光學eye玩視界觀光工廠,ChIJBcIahtF5bjQRKnQKXs_V7TM,"['tourist_attraction', 'museum', 'health', 'point_of_interest', 'store', 'establishment']",23.0731,120.211032,4.5,233.0
+377,善化啤酒廠,ChIJPwuqpZ98bjQRO9hyVZGfYPk,"['tourist_attraction', 'food', 'point_of_interest', 'establishment']",23.1277363,120.3177253,3.9,886.0
+378,大內龍貓公車站,ChIJAQAAQGpjbjQRdrOI8hbBnbs,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1234393,120.3546666,4.1,3707.0
+379,熱谷珍奶,ChIJxQmB51ljbjQRu4f4mlbHoSQ,"['tourist_attraction', 'cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",23.123792,120.3556216,4.7,195.0
+380,石仔崎公園,ChIJAzoMovFkbjQRlC34x0b-7PY,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0862005,120.3805879,3.7,20.0
+381,玉井北極殿,ChIJz9R-fA9hbjQR69xOqRz_1uE,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.1242103,120.4614868,4.3,147.0
+382,噍吧哖事件紀念園區,ChIJ0ebeUBNhbjQRQJlWnzyErkw,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",23.1253516,120.4601126,4.0,1017.0
+383,井字號,ChIJ305MCYNhbjQRcDhjOn37aMw,"['tourist_attraction', 'point_of_interest', 'establishment']",23.10847529999999,120.4496108,0.0,0.0
+384,明泉寺,ChIJFfTeKBthbjQRXypVikeA6gc,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.126331,120.473486,4.4,16.0
+385,海寮紅樹林,ChIJ1Zjbfj3XbTQR9MKR8MNP9B8,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.11838299999999,120.0897086,4.3,116.0
+386,鹿耳門公園,ChIJofDyKzrYbTQROj-L3C0Zt8A,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0663889,120.1272222,4.1,113.0
+387,紅崴觀光工廠｜旅遊｜安平｜足弓矯正鞋｜生活｜足部分析｜DIY,ChIJxUPqfnrYbTQRe_AK4jDBtoU,"['tourist_attraction', 'shoe_store', 'health', 'point_of_interest', 'store', 'establishment']",23.041896,120.15331100000002,4.1,190.0
+388,信和禪寺,ChIJ32d30fZ4bjQRy919BzNQ_dU,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.1214647,120.2024366,4.3,38.0
+389,南科管理局台灣犬,ChIJn3yw6rV7bjQRiR9lgoMOkmY,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1008321,120.2822239,4.1,82.0
+390,接天禪寺,ChIJKWqbji5lbjQRVivtQHJT0QQ,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.064943600000007,120.34819740000002,4.4,138.0
+391,新化林場·三角點,ChIJdaLflvNvbjQRXfHSrMb720s,"['tourist_attraction', 'point_of_interest', 'establishment']",23.025879,120.3628213,4.2,232.0
+392,彩疊山,ChIJA1EH-oVjbjQRCx-mLhPcmWU,"['tourist_attraction', 'point_of_interest', 'establishment']",23.116135,120.4008064,4.1,96.0
+393,感恩精舍,ChIJOe1ypmphbjQR9Wrq8nCMeCs,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.1358177,120.4460646,4.5,21.0
+394,望明芒果綠色隧道,ChIJP7rmukBhbjQRV_Atsy_LcHM,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1148769,120.457976,4.1,135.0
+395,余清芳紀念碑,ChIJN3Im9v1gbjQRHGSiqtq_EAU,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.1302047,120.4823659,3.7,87.0
+396,加利利心靈莊園,ChIJ666mTCJhbjQR0wT-LFGFM_M,"['tourist_attraction', 'point_of_interest', 'establishment']",23.094649800000006,120.4981876,4.0,1.0
+397,阿拉溪斜瀑群,ChIJ5YTmXNVfbjQRIg60tujxcII,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1243178,120.5362933,4.2,186.0
+398,龜丹溫泉體驗池,ChIJySv752ZgbjQR3tJIzQdC28U,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1363683,120.5085648,3.8,1008.0
+399,海寮碼頭（登船處）,ChIJtSUsEULXbTQRXOIyPQRLY8Q,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1179366,120.1026172,4.1,11.0
+400,觀海樓,ChIJATOpE9DWbTQRNhN0O7ItoYs,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1448659,120.0771702,4.1,823.0
+401,龍山號生態之旅,ChIJTyI76lfWbTQRHPeNN00ztnE,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1370111,120.1134719,4.2,1047.0
+402,台江鯨豚館,ChIJuegLP47YbTQRh5EX2v5e0Cc,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",23.0259914,120.1432839,3.8,135.0
+403,十二佃榕王武聖廟,ChIJs1zjrPZ3bjQRfrmvF3evGRA,"['place_of_worship', 'tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.069969,120.1784084,3.8,196.0
+404,海寮普陀寺,ChIJqTYpCa55bjQRA4FQsa7g_GY,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.0972002,120.21116709999998,4.0,37.0
+405,台南市新吉慶天宮,ChIJbSKlsWt5bjQRBKMUVrOaizA,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0880249,120.2169138,5.0,12.0
+406,安定蘇厝第一代天府真護宮,ChIJ02J8U195bjQRDz_w-Tnb4WE,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.125425,120.2510208,4.3,247.0
+407,善化掌上明珠仙人掌多肉植物園,ChIJAQAAQLd8bjQRkzCMy5nYmF8,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.1342148,120.3273578,4.2,84.0
+408,善化加洲草莓園,ChIJ9-KHY197bjQRdC1p85hi4NM,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1255613,120.3241553,4.1,227.0
+409,內庄朝天宮,ChIJ0Y-gkKBkbjQRnqflee1Ao0E,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.1174794,120.36253899999998,4.3,161.0
+410,楊家古厝,ChIJqZNRvA5lbjQRKV0fxGMLb1I,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1178215,120.36182420000002,3.7,7.0
+411,龍貓彩繪村,ChIJE_4jvlljbjQRySBvdQrhZbc,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1234472,120.3551111,4.1,696.0
+412,噍吧哖紀念公園,ChIJsf0qHUBhbjQR5U3d42M8n5U,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.1192455,120.4580765,3.8,283.0
+413,珍如意茶花園,ChIJvfqFWWRhbjQRPhQegAAcLtg,"['tourist_attraction', 'point_of_interest', 'establishment']",23.130217,120.443547,3.9,17.0
+414,臺灣糖業公司玉井糖廠,ChIJEXVXDjthbjQR5AQuX708h3U,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1242567,120.4599139,3.5,10.0
+415,噍吧哖支廳舊址,ChIJKQYAZhNhbjQRzVXZ9echPHo,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1241695,120.4603771,4.4,5.0
+416,山城大叔果園,ChIJj52SJrBhbjQRvAkuK7EZk9g,"['tourist_attraction', 'point_of_interest', 'establishment']",23.148805,120.472261,4.5,8.0
+417,寶林寺,ChIJu2UA579gbjQRWsAAaT2unQ0,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.1087266,120.5061105,4.6,20.0
+418,源之旅休閒公園,ChIJ4Vq6LxtebjQRdvTpGh9pX6Y,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.092524,120.533975,3.2,153.0
+419,南化水庫紀念碑,ChIJuwSSW11fbjQRx0Yyod3UkSY,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0859812,120.53660159999998,4.6,16.0
+420,網仔寮沙洲,ChIJSTQ-1zLRbTQRRfO8SBoM2X0,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1508288,120.0659037,4.3,35.0
+421,七股鹽田濕地,ChIJi-UR27fWbTQROoJ36cq2xas,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1575503,120.0761563,4.3,53.0
+422,七股鹽山,ChIJTRbkzL_WbTQRTrfGfckHIrc,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1541259,120.0999988,3.7,13291.0
+423,七股龍山宮,ChIJp1nl-FfWbTQRuF1eiNut6Kk,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.1382974,120.11341570000002,4.3,311.0
+424,西港中央公園,ChIJNYmJVPx4bjQRKntwrAWu2Sw,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.1168863,120.202051,3.9,419.0
+425,腳的眼鏡足部科學體驗中心,ChIJRz6XnHnYbTQROB5JUOcul4c,"['tourist_attraction', 'point_of_interest', 'establishment']",23.041593,120.153986,4.1,7.0
+426,西港綠川廊道,ChIJhzF_yeJ4bjQRqM6s5DXi3uM,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1199077,120.2036379,3.9,42.0
+427,花旗木步道,ChIJuTL0GCp_bjQRKWus6rEhKu8,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1561698,120.2018333,4.4,1083.0
+428,風之谷,ChIJY052Iit6bjQRKxJTk9sjn64,"['tourist_attraction', 'point_of_interest', 'establishment']",23.096711,120.2546404,3.6,131.0
+429,善化胡厝寮彩繪村,ChIJmW557wx8bjQR-5bCdyiwEt4,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1452477,120.2722472,3.8,1061.0
+430,樹之谷,ChIJKZRyOc17bjQR-GXmPxN5hwo,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0966554,120.2645822,3.8,110.0
+431,南科-堤塘湖,ChIJGUNlCjN6bjQRnaqBGml89j8,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0928241,120.2669156,3.9,88.0
+432,道爺湖,ChIJDb_3mTN6bjQRtibt-XaNMiw,"['tourist_attraction', 'point_of_interest', 'establishment']",23.09203339999999,120.2674922,4.0,12.0
+433,流觴亭,ChIJucRvaDN6bjQR3Wgg9wgpHFQ,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.0938122,120.2678107,4.0,42.0
+434,西拉雅親子公園,ChIJTbyREhRjbjQR847ZaiGz9Uc,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.140307,120.37344,3.0,133.0
+435,走馬瀨農場(Tsou Ma Lai Farm),ChIJFeLZsNBjbjQRFb6ZXzB4mO4,"['tourist_attraction', 'lodging', 'point_of_interest', 'establishment']",23.1371777,120.4298584,4.0,3794.0
+436,鹿陶洋江家聚落,ChIJYahrKzZgbjQRc_0x1DZBc5s,"['tourist_attraction', 'point_of_interest', 'establishment']",23.155554100000003,120.4902191,3.8,656.0
+437,七股鹽田海堤觀夕步道,ChIJdVPEoc_WbTQRMfbAD9p5Bvs,"['tourist_attraction', 'point_of_interest', 'establishment']",23.148630800000007,120.0765756,4.4,59.0
+438,永順號遊潟湖,ChIJQ8R-wlfWbTQRpY49WkVAdhY,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1370639,120.1138152,4.5,1315.0
+439,龍山漁港,ChIJc2Q53VfWbTQRoyTKcrRZ1GY,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1370056,120.1133966,4.0,40.0
+440,和明織品文化館HMTM,ChIJzSc1yyLWbTQRY2-X2gW51vk,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",23.1463283,120.1458734,4.2,443.0
+441,國王家族羽絨服飾觀光工廠,ChIJ4waRADR_bjQRUV8nO5u-zNk,"['clothing_store', 'tourist_attraction', 'point_of_interest', 'store', 'establishment']",23.160377,120.187914,4.1,618.0
+442,變葉木轉角,ChIJq7v1H2x5bjQRMbDL25cP3ac,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1171833,120.2338882,4.5,6.0
+443,藺草工坊,ChIJb76FoEh5bjQRCns03Ti1og4,"['tourist_attraction', 'home_goods_store', 'point_of_interest', 'store', 'establishment']",23.1349234,120.2327015,4.4,121.0
+444,小太陽廣場,ChIJIyPdDBt7bjQRyhR4hBdzB6Y,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.1043785,120.2634756,3.7,3.0
+445,大內橋茫草,ChIJcTksTKtlbjQRLs5I0QN2Izc,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1202473,120.3443444,4.3,142.0
+446,竹圍江家古厝聚落,ChIJg_y7nAZhbjQRsIhhUIjOiF0,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1323744,120.4739908,3.9,51.0
+447,大地谷,ChIJTQC28a9fbjQRxTp1SChd4wI,"['tourist_attraction', 'point_of_interest', 'establishment']",23.12856,120.5633911,4.2,389.0
+448,北頭洋文化館,ChIJyxRrmll_bjQRnF21zrChpBM,"['tourist_attraction', 'point_of_interest', 'establishment']",23.17295,120.163718,3.7,172.0
+449,佳里體育公園,ChIJ1z3ZvUV_bjQRLnPlgJj9Zf8,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.169677,120.1743819,4.0,291.0
+450,佳里金唐殿,ChIJSaVCi0t_bjQRdboELSDVxJ0,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.1612288,120.1766533,4.4,1028.0
+451,蕭壠文化園區,ChIJeZCi1UB_bjQRqMcV0Qo_CKQ,"['tourist_attraction', 'point_of_interest', 'establishment']",23.173175,120.1791861,4.2,3771.0
+452,南科之星,ChIJ9zkedbF7bjQRBIDTm0U2T_0,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0985867,120.2827,3.6,7.0
+453,善化,ChIJB-M4Pp17bjQRD1WplkFIBV8,"['tourist_attraction', 'point_of_interest', 'establishment']",23.12032,120.295738,5.0,1.0
+454,舞彩迎賓,ChIJcTKrUkx6bjQRmxvggx7vOKU,"['tourist_attraction', 'point_of_interest', 'establishment']",23.0887327,120.28299979999998,4.1,131.0
+455,大營 夫妻樹,ChIJISFNshZ7bjQRMr-yHS3M3Z8,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1006002,120.3149566,4.0,64.0
+456,大營夫妻樹景觀公園,ChIJY973mBZ7bjQROgmTeblcSD0,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.1006507,120.3162913,3.7,56.0
+457,東伯森林公園,ChIJywQj_H5hbjQRXzp4r0bltMc,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1419678,120.4390403,4.1,24.0
+458,大平頂,ChIJV40oLW9hbjQRPMwMbSbA3Ws,"['tourist_attraction', 'point_of_interest', 'establishment']",23.13302340000001,120.5128372,3.0,1.0
+459,居士蕃茄園,ChIJ6cio5vTWbTQRj9Jk5gRtheY,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1484754,120.10959009999998,4.7,68.0
+460,蕭壟文化園區兒童遊戲館,ChIJN-nqLkF_bjQRiQg5KTSl4Ew,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",23.17351859999999,120.1786773,4.4,248.0
+461,總爺藝文中心,ChIJJwaEsc59bjQRt2NK_QTRNuk,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.1856224,120.2690667,4.3,5802.0
+462,善化體育公園,ChIJPQzjF3l8bjQR5EiugLhBg7o,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1368863,120.289915,3.7,75.0
+463,水雉生態教育園區,ChIJe3Ss5xB9bjQRBlef8CRMICY,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.1844539,120.3131103,4.3,699.0
+464,善化農會冰品休閒中心,ChIJnTFwO718bjQR9RDLeirnBrA,"['tourist_attraction', 'point_of_interest', 'establishment']",23.138352,120.322511,3.8,320.0
+465,玄空法寺,ChIJJZhumoCKbjQRL2iQ0r_sRQ8,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.1821354,120.4825457,4.3,5908.0
+466,北頭洋山(番庄),ChIJFw-HW1l_bjQRbNucb7-NWks,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.1743185,120.16368909999998,4.0,25.0
+467,方圓美術館,ChIJCx3OyoDVbTQRNj-GbsECGkY,"['tourist_attraction', 'cafe', 'museum', 'food', 'point_of_interest', 'establishment']",23.1990837,120.1573851,4.3,482.0
+468,佳里鎮震興宮,ChIJnSRIvEt_bjQRAy8et3loh0A,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.1910774,120.188473,4.6,126.0
+469,佳福寺,ChIJWTuxvqd_bjQRydggUKKfcoY,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.1988824,120.1917812,4.5,2296.0
+470,倒風內海故事館,ChIJNb0ptMh9bjQRSVyrb_2h5nU,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",23.1900317,120.268942,4.0,531.0
+471,麻豆港碼頭遺蹟,ChIJfZjYF899bjQR6ScakOT2mJg,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1896067,120.2699428,4.0,42.0
+472,蔴荳古港文化園區,ChIJm6Uoish9bjQRO_3HZOfPAcE,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1895004,120.2691827,4.1,148.0
+473,麻豆區文化館,ChIJfywPVoB-bjQRx_d-l438oZg,"['art_gallery', 'tourist_attraction', 'museum', 'point_of_interest', 'establishment']",23.1829605,120.2483114,4.1,120.0
+474,善化胡厝寮,ChIJ3UAZpQx8bjQRvRXom-2-U0o,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1460033,120.27104380000002,4.1,90.0
+475,葫蘆埤自然公園,ChIJw6qOYXV9bjQRPr6viKQSN-Y,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.1979951,120.2975531,4.1,2260.0
+476,官田體育公園,ChIJETtafxN9bjQREIEmT2xVsF8,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1904263,120.3143604,4.0,168.0
+477,隆田酒廠,ChIJ8Xz28kF9bjQRTE5bSLIZkIM,"['tourist_attraction', 'point_of_interest', 'establishment']",23.195941,120.321772,3.7,146.0
+478,大崎村落創藝基地,ChIJmwy5ZZdibjQRNGhNiXlmhAM,"['tourist_attraction', 'library', 'point_of_interest', 'establishment']",23.1911523,120.370579,4.3,38.0
+479,天壇,ChIJc6q91JhibjQR8BZBhp8myOY,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.1971449,120.36926909999998,3.6,156.0
+480,六甲夢之湖,ChIJ_____7OJbjQRIDvC3lEyuSk,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1992655,120.4011681,3.9,501.0
+481,玉井斗六籃鳥山,ChIJVx-n9rthbjQROfngQv4VTDE,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1479569,120.4533832,4.4,5.0
+482,梅嶺香蕉山,ChIJYaShBHP1bjQREbne0UBLnOM,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1844686,120.5338429,4.0,85.0
+483,西寮鹽灘地,ChIJf6lRm53WbTQRxewy4WAimVE,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.173762600000003,120.1035872,4.0,42.0
+484,康那香不織布創意王國,ChIJp6Iww6LVbTQRAYsiKsXDznA,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2000304,120.1307449,3.9,459.0
+485,彩色鹽田,ChIJjzrYJpDVbTQRAYmxzLmEe8E,"['tourist_attraction', 'point_of_interest', 'establishment']",23.185116600000004,120.1099675,3.6,23.0
+486,麻豆海埔池王府,ChIJP2tVH05-bjQRmy_zbiaWxh4,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.2036627,120.2119517,4.3,318.0
+487,角秀山,ChIJhRUCR1R9bjQR-PdLBYSiRGQ,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.205384,120.339402,4.2,6.0
+488,八田與一紀念館,ChIJXZgQhx-IbjQRjUlX2-l8cQU,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2054444,120.36644440000002,4.2,311.0
+489,烏山頭水庫風景區,ChIJ86owPh-IbjQRQiuP_PqBv98,"['tourist_attraction', 'point_of_interest', 'establishment']",23.20788839999999,120.3633866,4.1,2482.0
+490,開明寺,ChIJxZh0HpphbjQRe1fmijeahUQ,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.151628,120.452948,2.0,2.0
+491,青鯤鯓青山漁港,ChIJ51EgAxfUbTQRZPamRQOENbw,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1896738,120.0861027,4.0,1081.0
+492,青鯤鯓扇形鹽田,ChIJm7eJIj7UbTQRmqSoE0QDL4w,"['tourist_attraction', 'point_of_interest', 'establishment']",23.193866600000003,120.0890117,4.1,314.0
+493,馬沙溝彩繪村,ChIJefK1Rl_UbTQRZBZbq6jG-_A,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2165892,120.0943423,4.1,619.0
+494,漚汪木棉花道,ChIJKdpiwSTVbTQRr5WCCdyyrqQ,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2137785,120.1464857,4.4,185.0
+495,香雨書院,ChIJJUmMQojVbTQRq-wzKLZywZY,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",23.1922288,120.1570705,4.1,115.0
+496,木棉花道,ChIJxc--HIrVbTQRpqSrxpDra4s,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1878106,120.1579669,4.0,96.0
+497,興農社區-幸福的Love園地,ChIJwZC5GYV-bjQRXnozcXZvEuw,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1773868,120.2417735,3.7,38.0
+498,老塘湖文化影城,ChIJJeDSwzR-bjQRAKrCaBDubWQ,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2192506,120.206366,4.1,10.0
+499,天一中藥生活化園區(台南觀光工廠│景點│台南親子旅遊),ChIJV9BWgvWHbjQR3QuxU1MUk-w,"['tourist_attraction', 'park', 'restaurant', 'food', 'school', 'health', 'point_of_interest', 'store', 'establishment']",23.212869,120.323308,4.2,924.0
+500,八田與一紀念園區,ChIJE_qQOhiIbjQRlSQvA68bCI0,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.2139325,120.3648085,4.2,2804.0
+501,六甲區赤山龍湖巖,ChIJJx58MxeIbjQRZabxfFcoAXQ,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.2167759,120.3609808,4.5,706.0
+502,百年火燒茄苳樹,ChIJXYw0BICKbjQRQvwKyJqFHl4,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.1788042,120.48207920000002,3.0,3.0
+503,楠西公園,ChIJPWpP2YGKbjQRiPsuDBCJQOw,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.17810559999999,120.4857634,3.6,83.0
+504,梅嶺風景區,ChIJybTzxEH1bjQRlIks6_5RLKM,"['tourist_attraction', 'point_of_interest', 'establishment']",23.18404529999999,120.5614573,4.2,1625.0
+505,芒果農創玫瑰綠柏園 - 團體聚餐 合菜 台式料理 結婚喜宴 宴會廳 熱炒 觀光工廠 熱門景點 打卡景點 推薦 好評 人氣 家庭旅遊 水果風味餐 農創園區 觀光園區,ChIJbYbn50mLbjQRib56q1Pn6co,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1835666,120.489383,4.7,207.0
+506,苓子寮木棉花道,ChIJbXoY0mHVbTQRI2boVawOdm4,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2228176,120.1666895,4.4,388.0
+507,華宗紀念公園,ChIJ15YtLOh_bjQROHAPR04H4qk,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.2291864,120.18149309999998,4.1,242.0
+508,麗豐微酵館,ChIJ9Rlc8_SHbjQRZHcd4rTpaTM,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2168641,120.3231689,3.6,92.0
+509,王爺宮廟,ChIJnQRnDbeJbjQRYIXoI6rnGLQ,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.220945,120.39975859999998,4.5,11.0
+510,伍龍殿,ChIJr72WXRL1bjQRLGWL0ZcPJNE,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.1864198,120.5609476,4.1,126.0
+511,伍龍步道,ChIJ097EaRL1bjQRHALFd3DxSfs,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.1867615,120.5610577,4.2,523.0
+512,海中央小舖/馬沙溝遊客觀光諮詢中心/臺南市馬沙溝觀光休閒協會,ChIJZ8zUG-DVbTQRSUisNf0yI0Y,"['tourist_attraction', 'point_of_interest', 'establishment']",23.211523,120.0891595,3.9,24.0
+513,馬沙溝3D彩繪,ChIJd-RIU1_UbTQRrCbn35iHYh4,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2171436,120.0953608,4.0,1227.0
+514,蘆竹溝漁港,ChIJLdWXXOnUbTQRK3czqPdSfGQ,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2345127,120.0962963,4.1,384.0
+515,學甲慈濟宮,ChIJ53UVn-d_bjQRLgy-P39QUU0,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.2335375,120.1804886,4.6,834.0
+516,武承恩公園,ChIJ3f2s8FCHbjQRQHAWwJHuXBM,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.2332973,120.2606847,4.3,351.0
+517,蘭都觀光工廠OrchidCity,ChIJl11Ak2V2bjQRtVhUnDn5C68,"['tourist_attraction', 'point_of_interest', 'store', 'establishment']",23.2253222,120.3416553,4.1,1570.0
+518,珊瑚潭藝農聚落,ChIJF3n8sfljbjQRiA_ARLNuBeY,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1907224,120.3712923,0.0,0.0
+519,藝農號｜農產x文創展售·芒果冰｜,ChIJCX1sQ5dibjQRsGBgW6n232A,"['tourist_attraction', 'food', 'point_of_interest', 'store', 'establishment']",23.1911238,120.3714259,4.7,57.0
+520,烏山頭水庫,ChIJVVVVVaVibjQR1AdNDjm4tGA,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1970064,120.37002549999998,4.1,417.0
+521,麻豆坪,ChIJdT6llieIbjQRv-zHHvjN7Zk,"['tourist_attraction', 'point_of_interest', 'establishment']",23.202157,120.376297,4.2,6.0
+522,香榭大道,ChIJ_cC97p9ibjQR7R119yjfXRY,"['tourist_attraction', 'point_of_interest', 'establishment']",23.202,120.36760990000002,4.1,58.0
+523,西口小瑞士,ChIJMdlinc2LbjQRq6hQa1dgxCs,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2317298,120.4488853,3.9,1577.0
+524,蝙蝠洞瀑布,ChIJUalgY62KbjQR6zGh_oOih1w,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1809738,120.5248763,3.8,192.0
+525,梅嶺糯米橋,ChIJuRL6IrOKbjQR_qKBEEtNyfE,"['tourist_attraction', 'point_of_interest', 'establishment']",23.183043100000006,120.5266084,3.4,36.0
+526,青山港汕,ChIJA5tS-I7UbTQRgTSHBah9p7Y,"['tourist_attraction', 'point_of_interest', 'establishment']",23.228264000000006,120.081551,3.5,6.0
+527,財團法人台灣省台南市學甲區中洲陳桂記大宗祠,ChIJq6qqqlPVbTQR9g-UQpN5jU4,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2429558,120.16213909999998,4.5,45.0
+528,顏水龍紀念公園,ChIJt0xQH0eHbjQRX8sSV7CPHZw,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.243326,120.2671,4.0,137.0
+529,下營區北極殿上帝廟,ChIJmT6bQFCHbjQRd7QVNO8IyjA,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.2347767,120.2610043,4.6,2084.0
+530,九品蓮花生態教育園區,ChIJ8_D6zrmHbjQRl3RaAY4GpcY,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2450363,120.3169388,3.9,831.0
+531,東隆文化中心,ChIJw6jEed_UbTQRUAYj9Ht2hNw,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",23.238274800000006,120.1117066,4.4,43.0
+532,台南北門井仔腳瓦盤鹽田,ChIJq6qqqtUqbDQR_ohO2eK2x4E,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2588308,120.107568,4.3,13463.0
+533,九品蓮花園,ChIJn6fyz7mHbjQRMx4sZbCFFlQ,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2449668,120.3169096,4.1,120.0
+534,大壩石堤,ChIJZYSNIh-IbjQRFgoHkLH_iKs,"['tourist_attraction', 'point_of_interest', 'establishment']",23.202549,120.3684248,4.3,50.0
+535,觀湖亭,ChIJjXwC66_0bjQRrXLZq0RkqQg,"['tourist_attraction', 'gym', 'health', 'point_of_interest', 'establishment']",23.2428524,120.5381662,4.5,33.0
+536,臨濮堂(施琅將軍紀念館),ChIJyRrem3PVbTQR3pd8AEY4k7Y,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.2146186,120.1391754,3.8,37.0
+537,北門區紅樹林保護區,ChIJ21v6gDMrbDQREywcJ09lEkA,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.2632984,120.0955484,3.3,4.0
+538,北門潟湖,ChIJp8JLlSwrbDQRHZtsQ4HSGyo,"['tourist_attraction', 'point_of_interest', 'establishment']",23.259725,120.105535,4.5,63.0
+539,水晶教堂,ChIJAQAAQMUqbDQR6j5bN-bwrbs,"['tourist_attraction', 'point_of_interest', 'establishment']",23.264491,120.1226713,3.8,8455.0
+540,北門婚紗美地,ChIJA31qE9AqbDQRk9fQTL3xyB8,"['tourist_attraction', 'point_of_interest', 'establishment']",23.264463,120.122934,4.1,19.0
+541,錢來也商店（創始店）,ChIJaXa719oqbDQRMk9Z9ePw3tE,"['tourist_attraction', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",23.2681164,120.1236343,3.8,2972.0
+542,北門出張所,ChIJKcnmM9sqbDQRSlNY7zV-f10,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2688568,120.1243317,4.1,75.0
+543,台南市學甲區大灣社區發展協會,ChIJ____P7l_bjQRWeQIakwCo0k,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2101933,120.1874011,4.4,9.0
+544,柳營八老爺牧場,ChIJz6qqqvmGbjQRm_2zNWWTN64,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2682427,120.3004264,3.8,651.0
+545,德元埤荷蘭村,ChIJq6qqqrqIbjQRWYIyq8JCnnc,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2640299,120.3399432,3.9,6021.0
+546,德元埤,ChIJ2SvWbSaGbjQReU_uFQljC9E,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2639422,120.3359872,4.0,29.0
+547,尖山埤水庫風景區,ChIJTa4g_CCJbjQR7UDePNm3JUw,"['tourist_attraction', 'point_of_interest', 'establishment']",23.265072,120.392297,4.1,297.0
+548,殉工碑,ChIJ2cRhLCCIbjQRSzHcX3dUXC0,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2055775,120.3670454,4.2,13.0
+549,天下第一軍師孔明廟,ChIJPWTHCRiIbjQRS80-C5flshQ,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2130119,120.3665806,4.5,24.0
+550,東山岩坑碧蓮寺,ChIJ0Ri0IZ6LbjQRHDIAi19wJoI,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.2475353,120.4814209,4.2,82.0
+551,鳥宮花園,ChIJNbcx7U6LbjQR6qK4-ITVZHU,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.2419219,120.5206817,3.6,41.0
+552,崁頭山,ChIJf_RR6piMbjQRtJvQ9YyO_lc,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.2656311,120.5042167,4.2,266.0
+553,曾文水庫,ChIJj8pfUqj0bjQRdazVS5q8g1k,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2505505,120.5367136,4.2,1576.0
+554,仙公廟孚佑宮,ChIJBYySAmiNbjQRNrSDUpjoGZk,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.2677308,120.5011904,4.4,652.0
+555,神秘氣場,ChIJ41RuEFv1bjQR658ATJ4Ve-w,"['tourist_attraction', 'point_of_interest', 'establishment']",23.1744275,120.5430764,3.7,88.0
+556,台灣烏腳病醫療紀念館,ChIJaQvI3sQqbDQRPaLbFKCU_ZA,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",23.2695984,120.123714,4.5,545.0
+557,北門洗鹽場,ChIJQTTI09oqbDQR6r-ltwIKvjs,"['tourist_attraction', 'point_of_interest', 'establishment']",23.267596,120.123954,3.7,45.0
+558,學甲濕地生態園區,ChIJ0fL9zieAbjQRAXr6Vy-OZ-g,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2779382,120.161278,3.9,57.0
+559,九人座包車自由行,ChIJDXyr6z9_bjQR4HU0KvtjFJE,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2269752,120.1842988,5.0,1.0
+560,六甲鎮南宮,ChIJ7-_FKkCIbjQR11a2wB5C2LQ,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.2208652,120.3660019,4.3,71.0
+561,東香貓咖啡園區,ChIJu8Bdi4iLbjQRiKIscI091kg,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2694874,120.4688403,4.2,175.0
+562,獅額山,ChIJHxkuC6iMbjQRgplnaEZcXDQ,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2582867,120.516618,4.5,23.0
+563,南鯤鯓代天府,ChIJkxNdo40qbDQRefOk_8E5FU8,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.2860869,120.14313500000002,4.6,6038.0
+564,頑皮世界野生動物園,ChIJvQu4RIF-bjQRs1riJ-L3YrE,"['zoo', 'tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.2809977,120.2094872,4.3,8284.0
+565,東山服務區,ChIJDwUJ00gEbjQRSZ2uOjsLc2A,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2866172,120.3983135,4.2,34747.0
+566,台南東山水雲慈照宮,ChIJlTgddkmJbjQRd8FPg2mH014,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.272216,120.415603,4.6,81.0
+567,鬼仔洞,ChIJtUWWIEuJbjQRttGi6k8ucrQ,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2739927,120.4117621,3.5,35.0
+568,東山牛肉崎警察官吏派出所,ChIJfUveI7WObjQRMzInLY8JIo0,"['tourist_attraction', 'point_of_interest', 'establishment']",23.27971299999999,120.4152253,4.2,13.0
+569,林安森林公園觀光步道,ChIJbx4Hc6aObjQRdcoxO2i1sVM,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.2875777,120.4305125,3.8,55.0
+570,山河巖,ChIJpyg3o2-MbjQR04aE_YIhqTY,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.2730278,120.5134542,4.6,8.0
+571,北門鹽田體驗區,ChIJhf3rbdoqbDQRN01uZJAsCNw,"['tourist_attraction', 'point_of_interest', 'establishment']",23.266699600000006,120.1202472,3.9,59.0
+572,大鯤園,ChIJuaRRwI4qbDQRvakbKqYDuZQ,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2869935,120.1430599,4.1,241.0
+573,星座公園,ChIJs8DKRzt-bjQRuUZ4SneGoxU,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.2224589,120.2211561,4.0,22.0
+574,下營大屯保安彩繪社區,ChIJ9QDffLKBbjQRAcJHvkAuhYU,"['tourist_attraction', 'point_of_interest', 'establishment']",23.23628,120.23826,4.6,21.0
+575,天池,ChIJuRU4e8iMbjQRK-1KgCaJZgc,"['tourist_attraction', 'point_of_interest', 'establishment']",23.280562,120.517065,3.7,61.0
+576,李子園,ChIJZwhsjcOMbjQRR8Bito6jsR4,"['tourist_attraction', 'point_of_interest', 'establishment']",23.286623,120.509988,4.1,22.0
+577,北門運動公園,ChIJVy6w3tsqbDQRPfV_YxYxT50,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.269695,120.119226,3.8,44.0
+578,井仔腳自行車道,ChIJaSziLcUqbDQRTvcDFfbaytY,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2674574,120.1233453,4.3,24.0
+579,Vanaheim 愛莊園,ChIJHVLld1QqbDQRhx1W1jl4eXU,"['tourist_attraction', 'rv_park', 'lodging', 'point_of_interest', 'establishment']",23.305516600000004,120.1126359,3.9,1113.0
+580,學甲綠色隧道,ChIJJ1GeT4CAbjQR6JPtz9dymaQ,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2387152,120.2073507,4.2,199.0
+581,學甲花,ChIJJeDSwzR-bjQRWIMwy6510sU,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2192506,120.206366,3.8,8.0
+582,老塘湖藝術村,ChIJJeDSwzR-bjQRE-U5H4g9rXI,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2192506,120.206366,4.0,4825.0
+583,新營文化中心,ChIJwdHxkdyFbjQRcPGDLi7W_Tc,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3086419,120.31595,4.3,2044.0
+584,崁頂福安宮,ChIJgVZFzuCMbjQR948YVD8636w,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.29734,120.5028745,4.6,1761.0
+585,175咖啡公路,ChIJzWur2n6LbjQRlmpoFZDZl0M,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2995352,120.501057,3.8,53.0
+586,錢來也雜貨店,ChIJobhfyNIrbDQRDZlKNhKOjS4,"['tourist_attraction', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",23.268042,120.123993,4.4,25.0
+587,北門洗滌鹽觀光工場,ChIJA1lKVeUqbDQRLY6BqcB1CjM,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2671376,120.12444,4.2,45.0
+588,丙叔微笑果園-台南果園/蕃茄果園/蕃茄伴手禮/水果宅配團購/水果伴手禮/鹽水蕃茄宅配團購,ChIJAbKIENeBbjQRfO4DY7GAPYs,"['tourist_attraction', 'lodging', 'point_of_interest', 'establishment']",23.2653899,120.2124107,4.0,1.0
+589,鹽水大豐南天宮,ChIJLW7bNO-AbjQRPM1IeoBU3Lc,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.2647517,120.22222659999998,4.6,50.0
+590,下營公園,ChIJp8vUDE-HbjQRbv4d1VOgmjM,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.239356,120.26136809999998,4.4,22.0
+591,橋南老街,ChIJ471m8BuEbjQRaIfrWGWR6VU,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3159056,120.2679083,4.0,1672.0
+592,月津港親水公園,ChIJeR1jexmEbjQR9lWCLks8pbU,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.3181578,120.2683851,4.2,8702.0
+593,鹽水天主堂,ChIJR8hsABuEbjQRZfWL66DPLBk,"['tourist_attraction', 'church', 'place_of_worship', 'point_of_interest', 'establishment']",23.3188817,120.2660861,4.4,339.0
+594,新營美術園區,ChIJO96rzNCFbjQRBtB16clMnHY,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.3067417,120.30794,4.1,843.0
+595,新營糖廠,ChIJswILfd-FbjQRiHZ_Q7rtdIo,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2995859,120.3170623,3.8,657.0
+596,洗布埤,ChIJW9UyFXuIbjQREtUqkYAIQeo,"['tourist_attraction', 'natural_feature', 'point_of_interest', 'establishment']",23.2421409,120.3535179,3.8,40.0
+597,東和蜂文化觀光工廠,ChIJ-RC3D_SObjQRbRhWsyxQmGM,"['tourist_attraction', 'food', 'point_of_interest', 'establishment']",23.317629,120.4078385,4.0,188.0
+598,六重溪平埔文化園區,ChIJMyvDvbSNbjQRDd8NlD4-4Nk,"['tourist_attraction', 'point_of_interest', 'establishment']",23.31288349999999,120.4626355,4.3,61.0
+599,香路古道,ChIJc0pYnrONbjQR5XbVysoo3nE,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.3135471,120.4657752,4.0,56.0
+600,鼎農村試驗教育基地,ChIJ0y62j-R_bjQRMTNplAu0vNk,"['tourist_attraction', 'lodging', 'point_of_interest', 'establishment']",23.2379825,120.1727331,4.2,93.0
+601,姑爺代天府,ChIJeeIAICiHbjQR7ah4w0CClug,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.26784229999999,120.26039109999998,4.6,20.0
+602,鹽水大眾廟,ChIJUfuGuxqEbjQRr75909VeTy4,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.3206287,120.2638487,4.5,62.0
+603,鹽水八角樓,ChIJY6T3EhqEbjQRUhqcHmiAu2M,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3199845,120.2673001,4.2,1938.0
+604,鹽水文物陳列室,ChIJ-_B_VBCEbjQRuHRXWWSJiR4,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",23.324067000000007,120.2654139,4.4,14.0
+605,東山碧軒寺,ChIJxZ0FXFiObjQRQEUGaVOxq_c,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.325515600000006,120.403728,4.6,159.0
+606,大港仔 觀光果園,ChIJY3jGbraIbjQRNNQgLEC8iyk,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2830589,120.3646962,4.5,2.0
+607,東山伯朗大道,ChIJizrQWCSPbjQRKjI2MZn4y04,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3002512,120.3811584,4.0,25.0
+608,東山運動公園,ChIJXVVE1vCObjQRpXX0wn5sGsY,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.318494,120.403831,4.0,162.0
+609,台灣白河萬里長城 (地址於白河區檨仔坑21-1號),ChIJ202EW-iNbjQRzkKeQ_8LQ4w,"['tourist_attraction', 'point_of_interest', 'store', 'establishment']",23.319571,120.4468999,4.4,8019.0
+610,台灣古鎮文化之都,ChIJzfvEe0-NbjQRjFw6uiKd8HA,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3195602,120.4469607,0.0,0.0
+611,火山碧雲寺,ChIJlbR5kaCNbjQRfGVBLOOd9oQ,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.3252316,120.4808585,4.5,2919.0
+612,水火同源,ChIJDVzTQ4uNbjQRszyuCGYsW1s,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3221314,120.4850429,4.0,8799.0
+613,紫雲殿仙祖廟,ChIJ_V3ABUeNbjQR3W_5y4tnAKs,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.3239211,120.51295079999998,4.3,56.0
+614,王金河醫師故居,ChIJETP_ssQqbDQRIotksu0BlWE,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",23.2694956,120.1238843,4.1,17.0
+615,新塭體育運動公園,ChIJaWuv9f-BbjQR-eM3fd2_ilE,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.332880300000006,120.1600313,3.9,58.0
+616,義竹修緣禪寺,ChIJm5XXRfODbjQRcJ5Qu3bPPDM,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.3347198,120.2440904,4.5,131.0
+617,鹽水 武廟,ChIJWfuxqhGEbjQRWk6fFM2j-XA,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.32382339999999,120.2657785,4.5,417.0
+618,鹽水火車站（自行車漫遊步道）,ChIJY7YBHhCEbjQRbpzCTK_Cvx8,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3227778,120.2627778,4.2,239.0
+619,天鵝湖公園,ChIJb-PaVr2FbjQRPd4K3hK46YU,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.3313928,120.3178534,3.9,2288.0
+620,代天府,ChIJIRs0-6WPbjQRxIGL2gdyBY4,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.33500549999999,120.3777209,4.8,13.0
+621,許秀才創意花園,ChIJQxd9FRyPbjQRtEx9Y3FlyYE,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3131404,120.3853455,4.5,90.0
+622,白河大仙寺,ChIJDVzTQ4uNbjQRB2ApYuqc4Ts,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.3395544,120.474241,4.4,1479.0
+623,大成殿,ChIJzd4WnWeNbjQRp6cFDNVFRLM,"['tourist_attraction', 'point_of_interest', 'establishment']",23.33732789999999,120.5038602,3.7,27.0
+624,關子嶺風景區,ChIJ331OhV2NbjQRikT5l58LVTI,"['tourist_attraction', 'point_of_interest', 'establishment']",23.33763799999999,120.505575,4.2,480.0
+625,嶺頂公園,ChIJhdYlbWeNbjQRJAkOZ-PTAqE,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.3381209,120.5035702,3.9,1034.0
+626,雙春濱海遊憩區,ChIJHz5OY6wrbDQRyHaCjB-vUYA,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3055013,120.1126365,3.9,740.0
+627,好美里3D海洋世界戶外美術館,ChIJ9eC0Qu0pbDQRP-2Q5u8dY-g,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3366445,120.1377206,3.9,3405.0
+628,天兵天將廟,ChIJNyAbFNqBbjQRRfmhmbV1vCk,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.29989969999999,120.1681783,3.0,2.0
+629,鹽水神社,ChIJDaWm4RaEbjQRqhMwHfRU1d4,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3230603,120.2713982,4.2,44.0
+630,南瀛綠都心公園,ChIJxY96odyFbjQR9qK4I3lE_A4,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.30936,120.315088,4.2,2360.0
+631,太康綠色隧道,ChIJ-S3fHgyGbjQRrecuh9P2kXE,"['tourist_attraction', 'point_of_interest', 'establishment']",23.291083,120.325962,4.1,47.0
+632,廚餘倉庫,ChIJa2oBR0GPbjQRBQSP3WZiCbs,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3041396,120.3608892,4.6,21.0
+633,東山三寶阿公觀光果園,ChIJXZayxjyPbjQRLuedKXLWvQ0,"['tourist_attraction', 'point_of_interest', 'establishment']",23.331522,120.40906509999998,5.0,2.0
+634,蓮圃園蓮產品DIY觀光工廠,ChIJje7FHgyObjQRO4lrsLqgyiE,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3453372,120.4337456,3.8,82.0
+635,湯泉美地溫泉會館,ChIJAdfICACUbjQRip73EN8e3Mk,"['tourist_attraction', 'lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",23.34015729999999,120.5048305,3.4,482.0
+636,紅葉公園,ChIJ99OxQF6NbjQROQl8o1d45Fc,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.342147,120.505728,3.9,518.0
+637,關子嶺溫泉,ChIJSfNljJ2NbjQRKpPO1fEKKsk,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3396518,120.50439,4.2,3202.0
+638,虱目魚小子,ChIJjZ5fnsQqbDQRe-qUpzdLLh0,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2700218,120.1261385,4.2,70.0
+639,紅樹林潟湖生態,ChIJAQAAAOwpbDQRjvszmVjRCvA,"['tourist_attraction', 'point_of_interest', 'establishment']",23.352782,120.1416089,3.9,15.0
+640,蚵寮漁村民俗文化公園,ChIJZxmbX_IqbDQRCFkLVcQPkRU,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.286023,120.133417,4.1,109.0
+641,柳營代天院,ChIJrWu4i2qGbjQRpIagj-yqDUU,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.278575,120.3171307,4.4,257.0
+642,卡多利亞良食故事館,ChIJJRuP-eaPbjQRJyG8xMedvcM,"['tourist_attraction', 'restaurant', 'food', 'point_of_interest', 'establishment']",23.3592418,120.3586483,3.9,244.0
+643,烏樹林糖廠,ChIJk2CADrCPbjQRLsDol_Eu_9o,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3284878,120.3744788,4.0,1210.0
+644,台灣基督長老教會 白水溪教會,ChIJ9YMn6oCSbjQRyvA3ocYe21Q,"['church', 'tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.35364,120.4838577,4.5,47.0
+645,黑琵抵嘉,ChIJVdAW-BCCbjQRFnlOlvwJksM,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3433625,120.1728428,4.1,15.0
+646,八掌溪堤岸步道,ChIJdwaSF0mDbjQRF851UAWSal8,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3298076,120.2451531,4.3,8.0
+647,鹽水車站倉庫群樹屋,ChIJW5_M4Q-EbjQR6k2F80jsI9c,"['tourist_attraction', 'point_of_interest', 'establishment']",23.322935,120.2627447,4.2,29.0
+648,月津港,ChIJN3iw-RyEbjQRiEWYYHgpEPA,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3170611,120.266785,4.3,2152.0
+649,糖伯伯,ChIJ38qU02eFbjQRtLOfBjA0OJQ,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3166607,120.2676595,5.0,21.0
+650,新營鐵道地景公園,ChIJ9w0mR-eFbjQRDls3tCmOorc,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.3048289,120.3217684,4.1,106.0
+651,台糖新營車站,ChIJLRCcaueFbjQR9SrgalrIrtw,"['tourist_attraction', 'point_of_interest', 'establishment']",23.305219,120.3218128,4.4,5.0
+652,蓮緣香水蓮花園,ChIJ-8nnaiGObjQRZDxkJJRC1dc,"['tourist_attraction', 'point_of_interest', 'establishment']",23.361772,120.408451,3.9,558.0
+653,烏樹林休閒博物館,ChIJJRuP-eaPbjQRPrNXnPaWEn4,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",23.32889849999999,120.3725879,3.9,62.0
+654,白河蓮香亭,ChIJAdfICACUbjQRLLnFS1A6vZ0,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3669968,120.4120111,3.9,739.0
+655,白河水庫風景區,ChIJYxH6XniSbjQRVeGn-aSbtDA,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3539796,120.4735302,3.2,162.0
+656,好美里水漾森林,ChIJ6WwVO9QpbDQRamVWRRnbPGU,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3443202,120.1274155,4.2,19.0
+657,嘉義美好村,ChIJi4UYxB8qbDQRh1SiwgG-Pyo,"['tourist_attraction', 'point_of_interest', 'establishment']",23.33651,120.13772659999998,4.3,15.0
+658,嘉義好美里,ChIJ6yRWVlK-bjQR95z9gdz6OgQ,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3373667,120.1390587,4.3,28.0
+659,魍港太聖宮,ChIJAQAAAOwpbDQRvY-NHyEGz5c,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.3384084,120.1383238,4.3,278.0
+660,布袋港漁市,ChIJl927qSsobDQRUbouAy2tsUw,"['tourist_attraction', 'food', 'point_of_interest', 'establishment']",23.379479,120.15556399999998,3.9,21997.0
+661,好美漁村公園,ChIJP2cfyfUpbDQRBHi9KX9fuTA,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.3391018,120.140419,4.0,708.0
+662,義竹公園,ChIJJTY8GpKDbjQRx74U7HzgfxM,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.3423904,120.2387138,3.5,26.0
+663,一銀巷,ChIJTdiqfRqEbjQRjLul0R3BYvA,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3206096,120.2658725,4.0,76.0
+664,鹽水護庇宮,ChIJwZQlzRuEbjQRaBwnRR9urzs,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.3181548,120.2672389,4.5,118.0
+665,王爺廟巷,ChIJTZeFQBqEbjQRCrrzRPlfdoA,"['tourist_attraction', 'point_of_interest', 'establishment']",23.319305,120.2670969,4.3,54.0
+666,新營美術園區,ChIJr869GdeFbjQRdV9RphWUN_A,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.3054919,120.3066748,4.5,23.0
+667,不二良小鼠,ChIJq6qqqtqFbjQRp0dWLeyS0AA,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3050805,120.3062679,4.1,379.0
+668,七彩長廊,ChIJt-OYTtaFbjQRk2MZi7Ghy4I,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3036917,120.3056802,4.2,311.0
+669,長勝營區綠色隧道,ChIJwSmAO3mGbjQRwGjYxTmZsUU,"['tourist_attraction', 'point_of_interest', 'establishment']",23.2984424,120.3051424,4.0,672.0
+670,南紙社區公園,ChIJx9cgO4CGbjQRlkcvYmEd9Gg,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.3033581,120.2954483,4.0,111.0
+671,新營阿勃勒步道,ChIJtcHuTcaFbjQRFwAA7udfRH4,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.3194448,120.3100019,4.4,76.0
+672,新營縣府日式木造官舍,ChIJC6K9buiFbjQRxT9FaJE3Fb0,"['tourist_attraction', 'point_of_interest', 'establishment']",23.310038100000003,120.3223473,4.2,25.0
+673,新東藥仔公園,ChIJqRy5q-mFbjQReCJ21EHSweE,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.31182309999999,120.32319540000002,3.5,11.0
+674,松鼠企業,ChIJZ2cMq6yabjQRBA6rLndIHNQ,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",23.3792032,120.3358671,4.0,54.0
+675,無米樂菁寮嫁妝老街,ChIJVVVVVeWPbjQRHZ_PSFrVPeM,"['tourist_attraction', 'museum', 'restaurant', 'food', 'point_of_interest', 'establishment']",23.3795199,120.3356709,4.1,929.0
+676,菁寮聖十字架天主堂,ChIJaRtsqlOFbjQR3GHs1Nui-aI,"['tourist_attraction', 'church', 'place_of_worship', 'point_of_interest', 'establishment']",23.3783163,120.33980490000002,4.3,260.0
+677,土溝農村美術館,ChIJVVVVVdSRbjQR0721Va4qnPs,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3742615,120.38768190000002,3.6,385.0
+678,土溝藝術工寮,ChIJheAxWdqRbjQRHk_TUzU5xa4,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3748994,120.4029674,3.8,23.0
+679,林初埤,ChIJI0ZL3sKRbjQR6UpWUh3BAKE,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3755264,120.4087835,4.1,195.0
+680,白河林初埤木棉花道,ChIJc5rfI8ORbjQR09fSnmIu0cw,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3781235,120.4099431,4.2,5423.0
+681,竹門綠色隧道,ChIJveCPu_GRbjQRrsmlx9dDAp8,"['tourist_attraction', 'point_of_interest', 'establishment']",23.376264600000006,120.4365892,4.1,155.0
+682,蓮花石洞,ChIJW3dN1qCNbjQRnMcEO-K4n8o,"['tourist_attraction', 'point_of_interest', 'establishment']",23.32443,120.479097,3.0,1.0
+683,清虛宮(天公廟),ChIJe5r2l6CNbjQRXhfTCFUIj0Q,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.3249062,120.4811098,4.7,119.0
+684,枕頭山步道,ChIJcxpgmKCNbjQREn0a0yjUOec,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.3250393,120.4813084,3.9,74.0
+685,寶貝的窩 3D彩繪,ChIJeZoKpfUpbDQRF8F_j31BIYY,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3390857,120.1392659,4.0,23.0
+686,邱家園(國宮博物館),ChIJC81-tS0obDQRQKhO7l6KYPw,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",23.38185,120.150104,2.7,15.0
+687,布袋鹽山,ChIJq9II7piCbjQRRRxP09mM74o,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3814544,120.1686317,3.3,567.0
+688,布袋濕地生態園區,ChIJo_q1JGaCbjQRY05qcVHN_g0,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.3624307,120.1778792,4.2,77.0
+689,南布袋溼地,ChIJ3TbH1HyCbjQRG6zb4-W-xis,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3626848,120.1779448,4.1,21.0
+690,龜塔公園,ChIJmZ5ZUNaEbjQRzN5R6EZJJW4,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.382525,120.295095,4.0,26.0
+691,五十三將軍廟,ChIJm98OTBaEbjQR-7YS3NurhkE,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.322834,120.2732969,3.9,133.0
+692,天鵝湖停車場,ChIJqbpI0aKFbjQR6hwUElucHr0,"['parking', 'tourist_attraction', 'point_of_interest', 'establishment']",23.3318934,120.3180066,4.0,823.0
+693,白河蓮花公園,ChIJLxPOaD2ObjQRe6XwjCNjy9Y,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.3875229,120.4176693,3.7,1450.0
+694,美雅家具觀光工廠,ChIJ650r1oqRbjQRNyw3g7uaaWQ,"['tourist_attraction', 'point_of_interest', 'establishment']",23.382015,120.432946,4.4,404.0
+695,出米洞,ChIJ3ZNlF96NbjQRqWF4xfZBV4g,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3250701,120.4806705,4.1,16.0
+696,枕頭山觀景臺,ChIJ87Ier3SNbjQRGewA8CdDPT4,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3280979,120.4871345,3.8,297.0
+697,枕頭山涼亭,ChIJSdoVu3SNbjQRvv3XThDeQYA,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3285515,120.486786,4.3,6.0
+698,好美寮溼地,ChIJu_Fyir4pbDQRmuPSGC1ZVF0,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.363065,120.131242,4.0,82.0
+699,淨慈寺,ChIJAQAAAF-CbjQRxu-_HFEyG14,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.3970447,120.209632,5.0,2.0
+700,連成巷,ChIJf6wIDRqEbjQRj-691irTNhM,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3202544,120.2672962,4.5,84.0
+701,小南海風景區,ChIJtzxzrMqRbjQRd9h53AOCD4o,"['tourist_attraction', 'point_of_interest', 'establishment']",23.39102519999999,120.3942677,4.0,1438.0
+702,白河鎮蓮潭社區,ChIJ15z7ObCRbjQRw4P65aR_vV4,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3970973,120.4045183,4.3,63.0
+703,三寶殿,ChIJx21Mm6CNbjQR4hXtbiwrGY8,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.325433,120.48141499999998,4.9,14.0
+704,高跟鞋教堂,ChIJPcKEHS0obDQR2iegaAc9_04,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3777519,120.14875,3.9,3916.0
+705,好美鱟花園｜布袋航道號,ChIJNQfO1tIpbDQRLU-PExFAISw,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3774183,120.149932,4.0,61.0
+706,武聖宮童話故事彩繪牆,ChIJtXNwHy0obDQRqLlABETy1no,"['tourist_attraction', 'point_of_interest', 'establishment']",23.37924,120.150051,0.0,0.0
+707,義昌碾米廠(旅遊中心、咖啡飲品、伴手禮展售),ChIJNX5IQVOFbjQRAyzK3TVQtxA,"['tourist_attraction', 'point_of_interest', 'establishment']",23.380125,120.336625,4.2,55.0
+708,台灣基督長老教會林子內教會,ChIJu5aLom2SbjQRH3990KP3cEo,"['tourist_attraction', 'church', 'place_of_worship', 'point_of_interest', 'establishment']",23.366291,120.4623503,4.5,88.0
+709,寶泉橋,ChIJL3oZUWeNbjQR3w2KGpc0pis,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3394766,120.5044091,3.7,66.0
+710,關子嶺好漢坡,ChIJaa4siF2NbjQRobz26z-ctMM,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3379996,120.50490390000002,3.8,60.0
+711,關子嶺天梯,ChIJ8581i12NbjQRw_MKCZOFhrM,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3384414,120.5051436,3.6,135.0
+712,關子嶺,ChIJT8MZ912NbjQRskDkqd5N9-U,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3389957,120.5051334,3.6,20.0
+713,布新國小後牆-喵星人彩繪,ChIJ52urtSwobDQRak13OA87hy8,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3776497,120.15188700000002,4.2,55.0
+714,布袋小確幸海灘,ChIJuyPq7S4obDQRIpiUv_9PkCE,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3846214,120.1510753,4.2,283.0
+715,布袋五四三 布袋小鎮展示所,ChIJYxvbJsYpbDQRYxvkcq9Ih6s,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3778197,120.1568371,4.5,4.0
+716,海濱公園,ChIJ6z7av4WCbjQRsEPNHtXoc48,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.380674600000006,120.1690062,3.4,13.0
+717,布袋嘉應廟,ChIJUfWIkioobDQRAniIK3AgalE,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.3780597,120.1573736,4.6,50.0
+718,東港山公園,ChIJ609fb-6CbjQRqazIuUql__g,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",23.382399,120.1888064,4.1,134.0
+719,洲南鹽場,ChIJk_9MgJqCbjQRP2clxqbM-YU,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3839298,120.1673704,4.6,215.0
+720,厝味碧沙街,ChIJ2wpaK4opbDQRAY1XE-MqWd8,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3786169,120.1578013,5.0,1.0
+721,台灣原創插畫彩繪村,ChIJET7Hx6ScbjQRnd0kzrJA6wM,"['tourist_attraction', 'point_of_interest', 'establishment']",23.4162728,120.2405381,4.2,100.0
+722,東榮村火車頭公園,ChIJUdizP2eDbjQRlH_c39CLpSo,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3787398,120.2441969,4.2,43.0
+723,台糖南靖休閒廣場,ChIJQw1NX_-QbjQR8XipLdUv4KU,"['florist', 'campground', 'night_club', 'tourist_attraction', 'lodging', 'park', 'bar', 'food', 'point_of_interest', 'store', 'establishment']",23.413797,120.384991,4.0,49.0
+724,台灣基督長老教會 岩前教會,ChIJj50mDJCNbjQRuXkEZrkt7Tg,"['church', 'tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.3409675,120.4698458,4.6,59.0
+725,海風長堤,ChIJS9XV0isobDQR6DW5odJLbkI,"['tourist_attraction', 'point_of_interest', 'establishment']",23.381447,120.1560213,4.1,41.0
+726,桑椹銀行家,ChIJAQAAAFeDbjQRzYfRZqP_kxk,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3920051,120.2423198,4.2,70.0
+727,菁寮老街,ChIJfX0XDlOFbjQRDh59YxvIdEI,"['tourist_attraction', 'point_of_interest', 'establishment']",23.379271600000006,120.3359068,4.1,1781.0
+728,白人牙膏觀光工廠,ChIJIQbcHh2RbjQRqiMl6cn-q5k,"['tourist_attraction', 'museum', 'restaurant', 'food', 'point_of_interest', 'establishment']",23.4246517,120.3922743,4.3,14576.0
+729,中埔鄉嘉檳文化館,ChIJpdrte1aTbjQRDe-d37yjjD8,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",23.4248968,120.521999,4.1,52.0
+730,後壁黃崑虎宅,ChIJ8dSA0sSPbjQRwfnuLDRAqas,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3647154,120.36160990000002,4.3,18.0
+731,後壁綠色隧道,ChIJcc8UQW2PbjQR9EFYY8Aa59U,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3624034,120.3747373,4.2,68.0
+732,清山寺,ChIJT3pHqVXrbjQRHS-Y3BxTQiE,"['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']",23.427995000000006,120.5313871,4.5,4.0
+733,中崙澐水溪溫泉,ChIJPSBrgWWUbjQRfDwPRTnZUfk,"['tourist_attraction', 'natural_feature', 'point_of_interest', 'establishment']",23.373691,120.5620679,3.8,469.0
+734,鹿角埤生態園區,ChIJtctMMiCTbjQRbDKvEq-834U,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",23.3949594,120.5064791,3.2,32.0
+735,白水湖壽島,ChIJrQfz4RsobDQRzokSYiT9Uzk,"['tourist_attraction', 'point_of_interest', 'establishment']",23.4009833,120.1514525,4.4,450.0
+736,東石鄉白水湖--壽島,ChIJ8T7y4RsobDQRwFWoUO_AbBg,"['tourist_attraction', 'point_of_interest', 'establishment']",23.4043554,120.1520355,4.5,139.0
+737,東石漁人碼頭,ChIJo-Z3SJgnbDQRbkeN9Rx3Mis,"['tourist_attraction', 'point_of_interest', 'establishment']",23.448753600000003,120.1352728,4.1,17149.0
+738,國寶阿祖的彩繪古厝,ChIJxWshrEqdbjQRkLc-cVRyn5w,"['tourist_attraction', 'point_of_interest', 'establishment']",23.414462,120.181555,5.0,2.0
+739,瑞茂戲院,ChIJL79LfDWdbjQROmf1DOrz-Ew,"['tourist_attraction', 'point_of_interest', 'establishment']",23.4162533,120.1822187,3.9,14.0
+740,品皇咖啡觀光工廠,ChIJwYYKF3KabjQR9XYLTRdAnYo,"['tourist_attraction', 'point_of_interest', 'establishment']",23.4417307,120.3334077,3.9,13514.0
+741,鹿東社區埤頭堀,ChIJC_Sw6-6abjQRwEE6SZkNV9Y,"['tourist_attraction', 'point_of_interest', 'establishment']",23.4145654,120.3130413,4.4,19.0
+742,嘉南大圳洗衣亭,ChIJUZeskDGQbjQR0WcoBcqCJmU,"['tourist_attraction', 'point_of_interest', 'establishment']",23.3840268,120.3828279,3.9,30.0
+743,嘉義千光寺,ChIJVVVVFUmRbjQRwbpAFcz0I2o,"['tourist_attraction', 'place_of_worship', 'point_of_interest', 'establishment']",23.4372314,120.4181428,4.3,52.0
